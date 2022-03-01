@@ -1,0 +1,1356 @@
+Regions,Sub_region,market,category,commodity,unit,year,pricetype,currency,price
+Central,Nyeri,Karatina (Nyeri),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,3001.5
+Central,Nyeri,Karatina (Nyeri),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,8100
+Central,Nyeri,Karatina (Nyeri),cereals and tubers,"Potatoes (Irish, red)",50 KG,2021,Wholesale,KES,1177.11
+Central,Nyeri,Karatina (Nyeri),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,5400
+Central,Nyeri,Karatina (Nyeri),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,6201
+Central,Nyeri,Karatina (Nyeri),pulses and nuts,Beans (mung),90 KG,2021,Wholesale,KES,11997
+Central,Nyeri,Karatina (Nyeri),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,8001
+Central,Nyeri,Karatina (Nyeri),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,1197.133333
+Central,Nyeri,Karatina (Nyeri),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,639.11
+Central,Nyeri,Karatina (Nyeri),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,660.7766667
+Central,Nyeri,Karatina (Nyeri),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,3281.666667
+Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,2015,Retail,KES,36.175
+Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,2016,Retail,KES,40.54545455
+Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,2017,Retail,KES,54.525
+Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,2018,Retail,KES,42.69166667
+Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,2019,Retail,KES,45
+Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,2020,Retail,KES,43.00833333
+Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,2015,Retail,KES,89.95833333
+Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,2016,Retail,KES,88.63636364
+Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,2017,Retail,KES,114.25
+Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,2018,Retail,KES,92.935
+Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,2019,Retail,KES,98.00833333
+Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,2020,Retail,KES,105.0666667
+Coast,Mombasa,Bangladesh (Mombasa),cereals and tubers,Maize,KG,2021,Retail,KES,51.39
+Coast,Mombasa,Bangladesh (Mombasa),cereals and tubers,Maize flour,KG,2021,Retail,KES,52.16714286
+Coast,Mombasa,Bangladesh (Mombasa),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,66.10428571
+Coast,Mombasa,Bangladesh (Mombasa),cereals and tubers,Rice,KG,2021,Retail,KES,93.59428571
+Coast,Mombasa,Bangladesh (Mombasa),cereals and tubers,Sorghum,KG,2021,Retail,KES,75
+Coast,Mombasa,Bangladesh (Mombasa),cereals and tubers,Wheat flour,KG,2021,Retail,KES,71.06
+Coast,Mombasa,Bangladesh (Mombasa),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,517.8533333
+Coast,Mombasa,Bangladesh (Mombasa),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,550.7066667
+Coast,Mombasa,Bangladesh (Mombasa),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,51.39142857
+Coast,Mombasa,Bangladesh (Mombasa),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,105
+Coast,Mombasa,Bangladesh (Mombasa),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,90
+Coast,Mombasa,Bangladesh (Mombasa),miscellaneous food,Salt,200 G,2021,Retail,KES,11.94857143
+Coast,Mombasa,Bangladesh (Mombasa),miscellaneous food,Sugar,KG,2021,Retail,KES,113.8842857
+Coast,Mombasa,Bangladesh (Mombasa),oil and fats,Cooking fat,KG,2021,Retail,KES,185.0971429
+Coast,Mombasa,Bangladesh (Mombasa),oil and fats,Oil (vegetable),L,2021,Retail,KES,210.5214286
+Coast,Mombasa,Bangladesh (Mombasa),pulses and nuts,Beans (dry),KG,2021,Retail,KES,104.7171429
+Coast,Mombasa,Bangladesh (Mombasa),vegetables and fruits,Bananas,Unit,2021,Retail,KES,10
+Coast,Mombasa,Bangladesh (Mombasa),vegetables and fruits,Cabbage,Head,2021,Retail,KES,55
+Coast,Mombasa,Bangladesh (Mombasa),vegetables and fruits,Kale,Bunch,2021,Retail,KES,10
+Coast,Mombasa,Junda (Mombasa),cereals and tubers,Maize,KG,2021,Retail,KES,54.765
+Coast,Mombasa,Junda (Mombasa),cereals and tubers,Maize flour,KG,2021,Retail,KES,57.31142857
+Coast,Mombasa,Junda (Mombasa),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,56.5
+Coast,Mombasa,Junda (Mombasa),cereals and tubers,Rice,KG,2021,Retail,KES,100.5957143
+Coast,Mombasa,Junda (Mombasa),cereals and tubers,Sorghum,KG,2021,Retail,KES,62
+Coast,Mombasa,Junda (Mombasa),cereals and tubers,Wheat flour,KG,2021,Retail,KES,67.76142857
+Coast,Mombasa,Junda (Mombasa),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,484.0557143
+Coast,Mombasa,Junda (Mombasa),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,498.75
+Coast,Mombasa,Junda (Mombasa),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,52.26285714
+Coast,Mombasa,Junda (Mombasa),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,110
+Coast,Mombasa,Junda (Mombasa),miscellaneous food,Salt,200 G,2021,Retail,KES,10.23857143
+Coast,Mombasa,Junda (Mombasa),miscellaneous food,Sugar,KG,2021,Retail,KES,109.8571429
+Coast,Mombasa,Junda (Mombasa),oil and fats,Cooking fat,KG,2021,Retail,KES,186.4085714
+Coast,Mombasa,Junda (Mombasa),oil and fats,Oil (vegetable),L,2021,Retail,KES,206.4828571
+Coast,Mombasa,Junda (Mombasa),pulses and nuts,Beans (dry),KG,2021,Retail,KES,99.66
+Coast,Mombasa,Junda (Mombasa),vegetables and fruits,Bananas,Unit,2021,Retail,KES,10.01142857
+Coast,Mombasa,Kalahari (Mombasa),cereals and tubers,Maize,KG,2021,Retail,KES,52.58
+Coast,Mombasa,Kalahari (Mombasa),cereals and tubers,Maize flour,KG,2021,Retail,KES,59.95555556
+Coast,Mombasa,Kalahari (Mombasa),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,60.83555556
+Coast,Mombasa,Kalahari (Mombasa),cereals and tubers,Rice,KG,2021,Retail,KES,93.05444444
+Coast,Mombasa,Kalahari (Mombasa),cereals and tubers,Sorghum,KG,2021,Retail,KES,70
+Coast,Mombasa,Kalahari (Mombasa),cereals and tubers,Wheat flour,KG,2021,Retail,KES,67.52555556
+Coast,Mombasa,Kalahari (Mombasa),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,499.64875
+Coast,Mombasa,Kalahari (Mombasa),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,516.11
+Coast,Mombasa,Kalahari (Mombasa),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,51.48
+Coast,Mombasa,Kalahari (Mombasa),miscellaneous food,Salt,200 G,2021,Retail,KES,10
+Coast,Mombasa,Kalahari (Mombasa),miscellaneous food,Sugar,KG,2021,Retail,KES,112.9911111
+Coast,Mombasa,Kalahari (Mombasa),oil and fats,Cooking fat,KG,2021,Retail,KES,180.4333333
+Coast,Mombasa,Kalahari (Mombasa),oil and fats,Oil (vegetable),L,2021,Retail,KES,209.6244444
+Coast,Mombasa,Kalahari (Mombasa),pulses and nuts,Beans (dry),KG,2021,Retail,KES,102.3477778
+Coast,Mombasa,Kalahari (Mombasa),vegetables and fruits,Bananas,Unit,2021,Retail,KES,10
+Coast,Mombasa,Kalahari (Mombasa),vegetables and fruits,Cabbage,Head,2021,Retail,KES,50
+Coast,Mombasa,Kalahari (Mombasa),vegetables and fruits,Kale,Bunch,2021,Retail,KES,10
+Coast,Mombasa,Kisumu Ndogo (Mombasa),cereals and tubers,Maize,KG,2021,Retail,KES,55
+Coast,Mombasa,Kisumu Ndogo (Mombasa),cereals and tubers,Maize flour,KG,2021,Retail,KES,59.13
+Coast,Mombasa,Kisumu Ndogo (Mombasa),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,50.8
+Coast,Mombasa,Kisumu Ndogo (Mombasa),cereals and tubers,Rice,KG,2021,Retail,KES,101.5
+Coast,Mombasa,Kisumu Ndogo (Mombasa),cereals and tubers,Sorghum,KG,2021,Retail,KES,60
+Coast,Mombasa,Kisumu Ndogo (Mombasa),cereals and tubers,Wheat flour,KG,2021,Retail,KES,66.898
+Coast,Mombasa,Kisumu Ndogo (Mombasa),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,476.334
+Coast,Mombasa,Kisumu Ndogo (Mombasa),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,503.33
+Coast,Mombasa,Kisumu Ndogo (Mombasa),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,51.352
+Coast,Mombasa,Kisumu Ndogo (Mombasa),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,110
+Coast,Mombasa,Kisumu Ndogo (Mombasa),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,50
+Coast,Mombasa,Kisumu Ndogo (Mombasa),miscellaneous food,Salt,200 G,2021,Retail,KES,9.952
+Coast,Mombasa,Kisumu Ndogo (Mombasa),miscellaneous food,Sugar,KG,2021,Retail,KES,108.012
+Coast,Mombasa,Kisumu Ndogo (Mombasa),oil and fats,Cooking fat,KG,2021,Retail,KES,189.066
+Coast,Mombasa,Kisumu Ndogo (Mombasa),oil and fats,Oil (vegetable),L,2021,Retail,KES,209.022
+Coast,Mombasa,Kisumu Ndogo (Mombasa),pulses and nuts,Beans (dry),KG,2021,Retail,KES,104.23
+Coast,Mombasa,Kisumu Ndogo (Mombasa),vegetables and fruits,Bananas,Unit,2021,Retail,KES,9.934
+Coast,Mombasa,Kongowea (Mombasa),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,2700
+Coast,Mombasa,Kongowea (Mombasa),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,1291.666667
+Coast,Mombasa,Kongowea (Mombasa),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,6165
+Coast,Mombasa,Kongowea (Mombasa),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,6372
+Coast,Mombasa,Kongowea (Mombasa),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,6933
+Coast,Mombasa,Kongowea (Mombasa),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,5850
+Coast,Mombasa,Kongowea (Mombasa),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,2242.133333
+Coast,Mombasa,Kongowea (Mombasa),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,1240.833333
+Coast,Mombasa,Kongowea (Mombasa),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,747.2833333
+Coast,Mombasa,Kongowea (Mombasa),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,3899.333333
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2006,Wholesale,KES,19.92
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2007,Wholesale,KES,12.98333333
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2008,Wholesale,KES,20.07285714
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2009,Wholesale,KES,23.585
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2010,Wholesale,KES,17.1025
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2011,Wholesale,KES,31.3325
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2012,Wholesale,KES,32.69
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2013,Wholesale,KES,33.3
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2014,Wholesale,KES,31.6925
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2015,Wholesale,KES,28.11
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2016,Wholesale,KES,29.7725
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2017,Wholesale,KES,40.38
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2018,Wholesale,KES,28.10833333
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2019,Wholesale,KES,36.39
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2020,Wholesale,KES,37.1
+Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,2021,Wholesale,KES,32.436
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2006,Wholesale,KES,1411.1325
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2007,Wholesale,KES,1154.993333
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2008,Wholesale,KES,1940
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2009,Wholesale,KES,2344.5875
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2010,Wholesale,KES,1653.639167
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2011,Wholesale,KES,2951.125
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2012,Wholesale,KES,3080
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2013,Wholesale,KES,2672.916667
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2014,Wholesale,KES,2782.045
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2015,Wholesale,KES,2786.694167
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2016,Wholesale,KES,2931.534545
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2017,Wholesale,KES,3721.25
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2018,Wholesale,KES,2419.625
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2019,Wholesale,KES,3151.479
+Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,2020,Wholesale,KES,3102.64
+Coast,Mombasa,Mombasa,cereals and tubers,Potatoes (Irish),50 KG,2012,Wholesale,KES,1845.92
+Coast,Mombasa,Mombasa,cereals and tubers,Sorghum,90 KG,2012,Wholesale,KES,3762
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2006,Wholesale,KES,34.4375
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2007,Wholesale,KES,35.70083333
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2008,Wholesale,KES,50.995
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2009,Wholesale,KES,51.53083333
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2010,Wholesale,KES,47.86
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2011,Wholesale,KES,59.6225
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2012,Wholesale,KES,57.64
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2013,Wholesale,KES,65.56090909
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2014,Wholesale,KES,71.265
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2015,Wholesale,KES,59.735
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2016,Wholesale,KES,59.95583333
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2017,Wholesale,KES,90.56083333
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2018,Wholesale,KES,54.23916667
+Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,2019,Wholesale,KES,67.95375
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2006,Wholesale,KES,3202.829167
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2007,Wholesale,KES,3247.9825
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2008,Wholesale,KES,4777.781667
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2009,Wholesale,KES,4753.833333
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2010,Wholesale,KES,4358.956667
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2011,Wholesale,KES,5343.5
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2012,Wholesale,KES,5613.909091
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2013,Wholesale,KES,5445.75
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2014,Wholesale,KES,5582.491667
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2015,Wholesale,KES,6260.610833
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2016,Wholesale,KES,6318.898182
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2017,Wholesale,KES,6938.333333
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2018,Wholesale,KES,5206.756667
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2019,Wholesale,KES,6888.45
+Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,2020,Wholesale,KES,8666.666667
+Coast,Mombasa,Moroto (Mombasa),cereals and tubers,Maize,KG,2021,Retail,KES,51.46
+Coast,Mombasa,Moroto (Mombasa),cereals and tubers,Maize flour,KG,2021,Retail,KES,58.715
+Coast,Mombasa,Moroto (Mombasa),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,55.35
+Coast,Mombasa,Moroto (Mombasa),cereals and tubers,Rice,KG,2021,Retail,KES,96.25
+Coast,Mombasa,Moroto (Mombasa),cereals and tubers,Wheat flour,KG,2021,Retail,KES,67.96
+Coast,Mombasa,Moroto (Mombasa),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,489.325
+Coast,Mombasa,Moroto (Mombasa),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,530
+Coast,Mombasa,Moroto (Mombasa),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,484.545
+Coast,Mombasa,Moroto (Mombasa),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,51.54
+Coast,Mombasa,Moroto (Mombasa),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,80
+Coast,Mombasa,Moroto (Mombasa),miscellaneous food,Salt,200 G,2021,Retail,KES,11.57333333
+Coast,Mombasa,Moroto (Mombasa),miscellaneous food,Sugar,KG,2021,Retail,KES,119.3083333
+Coast,Mombasa,Moroto (Mombasa),oil and fats,Cooking fat,KG,2021,Retail,KES,185.0366667
+Coast,Mombasa,Moroto (Mombasa),oil and fats,Oil (vegetable),L,2021,Retail,KES,198.445
+Coast,Mombasa,Moroto (Mombasa),pulses and nuts,Beans (dry),KG,2021,Retail,KES,106.1633333
+Coast,Mombasa,Moroto (Mombasa),vegetables and fruits,Bananas,Unit,2021,Retail,KES,10
+Coast,Mombasa,Shonda (Mombasa),cereals and tubers,Maize,KG,2021,Retail,KES,55.4175
+Coast,Mombasa,Shonda (Mombasa),cereals and tubers,Maize flour,KG,2021,Retail,KES,58.95666667
+Coast,Mombasa,Shonda (Mombasa),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,69.16666667
+Coast,Mombasa,Shonda (Mombasa),cereals and tubers,Rice,KG,2021,Retail,KES,94.4
+Coast,Mombasa,Shonda (Mombasa),cereals and tubers,Wheat flour,KG,2021,Retail,KES,68.485
+Coast,Mombasa,Shonda (Mombasa),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,529.666
+Coast,Mombasa,Shonda (Mombasa),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,525
+Coast,Mombasa,Shonda (Mombasa),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,54.10333333
+Coast,Mombasa,Shonda (Mombasa),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,80
+Coast,Mombasa,Shonda (Mombasa),miscellaneous food,Salt,200 G,2021,Retail,KES,10
+Coast,Mombasa,Shonda (Mombasa),miscellaneous food,Sugar,KG,2021,Retail,KES,110.0033333
+Coast,Mombasa,Shonda (Mombasa),oil and fats,Cooking fat,KG,2021,Retail,KES,176.9583333
+Coast,Mombasa,Shonda (Mombasa),oil and fats,Oil (vegetable),L,2021,Retail,KES,211.2883333
+Coast,Mombasa,Shonda (Mombasa),pulses and nuts,Beans (dry),KG,2021,Retail,KES,98.77833333
+Coast,Mombasa,Shonda (Mombasa),vegetables and fruits,Bananas,Unit,2021,Retail,KES,10
+Coast,Mombasa,Shonda (Mombasa),vegetables and fruits,Cabbage,Head,2021,Retail,KES,55
+Coast,Mombasa,Shonda (Mombasa),vegetables and fruits,Kale,Bunch,2021,Retail,KES,10
+Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,2015,Retail,KES,37.20583333
+Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,2016,Retail,KES,46.84181818
+Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,2017,Retail,KES,58.48583333
+Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,2018,Retail,KES,50.54166667
+Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,2019,Retail,KES,56.025
+Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,2020,Retail,KES,56.98888889
+Eastern,Isiolo,Isiolo town,cereals and tubers,Maize,KG,2021,Retail,KES,59.76833333
+Eastern,Isiolo,Isiolo town,cereals and tubers,Maize flour,KG,2021,Retail,KES,55.97
+Eastern,Isiolo,Isiolo town,cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,82.22166667
+Eastern,Isiolo,Isiolo town,cereals and tubers,Rice,KG,2021,Retail,KES,116.48
+Eastern,Isiolo,Isiolo town,cereals and tubers,Sorghum,KG,2021,Retail,KES,48.75
+Eastern,Isiolo,Isiolo town,cereals and tubers,Wheat flour,KG,2021,Retail,KES,68.21666667
+Eastern,Isiolo,Isiolo town,"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,500
+Eastern,Isiolo,Isiolo town,"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,400
+Eastern,Isiolo,Isiolo town,milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,51.87666667
+Eastern,Isiolo,Isiolo town,milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,82.5
+Eastern,Isiolo,Isiolo town,milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,60
+Eastern,Isiolo,Isiolo town,miscellaneous food,Salt,200 G,2021,Retail,KES,11.66666667
+Eastern,Isiolo,Isiolo town,miscellaneous food,Sugar,KG,2021,Retail,KES,114.12
+Eastern,Isiolo,Isiolo town,oil and fats,Cooking fat,KG,2021,Retail,KES,203.3333333
+Eastern,Isiolo,Isiolo town,oil and fats,Oil (vegetable),L,2021,Retail,KES,202.9616667
+Eastern,Isiolo,Isiolo town,pulses and nuts,Beans (dry),KG,2021,Retail,KES,115.6483333
+Eastern,Isiolo,Isiolo town,vegetables and fruits,Bananas,Unit,2021,Retail,KES,5.833333333
+Eastern,Isiolo,Isiolo town,vegetables and fruits,Cabbage,Head,2021,Retail,KES,42.5
+Eastern,Isiolo,Isiolo town,vegetables and fruits,Kale,Bunch,2021,Retail,KES,20
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2006,Retail,KES,19.66666667
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2007,Retail,KES,10.58333333
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2008,Retail,KES,23.91666667
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2009,Retail,KES,32.5
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2010,Retail,KES,15.58333333
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2011,Retail,KES,35.56666667
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2012,Retail,KES,39.58333333
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2013,Retail,KES,34.16666667
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2014,Retail,KES,35.16666667
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2015,Retail,KES,33.25
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2016,Retail,KES,31.5
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2017,Retail,KES,46.26666667
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2018,Retail,KES,31.07166667
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2019,Retail,KES,38.86666667
+Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,2020,Retail,KES,33.83333333
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2006,Wholesale,KES,1520.825
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2007,Wholesale,KES,1195.55
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2008,Wholesale,KES,1608.943333
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2009,Wholesale,KES,1890.525833
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2010,Wholesale,KES,1724.114167
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2011,Wholesale,KES,2203.6975
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2012,Wholesale,KES,2478.930909
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2013,Wholesale,KES,2093.378182
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2014,Wholesale,KES,2157.803333
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2015,Wholesale,KES,1641.106
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2016,Wholesale,KES,2893.909091
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2017,Wholesale,KES,3013.194167
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2018,Wholesale,KES,4076.514545
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2019,Wholesale,KES,4083.333333
+Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,2020,Wholesale,KES,3200
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2006,Wholesale,KES,1950
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2007,Wholesale,KES,1505
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2008,Wholesale,KES,1816.389167
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2009,Wholesale,KES,3218.7225
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2010,Wholesale,KES,2169.416667
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2011,Wholesale,KES,3218.181818
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2012,Wholesale,KES,3686.363636
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2013,Wholesale,KES,3047
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2014,Wholesale,KES,3800
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2015,Wholesale,KES,4465
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2016,Wholesale,KES,4123.166667
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2017,Wholesale,KES,6250.833333
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2018,Wholesale,KES,6015
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2019,Wholesale,KES,4856.25
+Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,2020,Wholesale,KES,4952.776667
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2006,Retail,KES,46
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2007,Retail,KES,34.91666667
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2008,Retail,KES,62.91666667
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2009,Retail,KES,65.83333333
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2010,Retail,KES,51.25
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2011,Retail,KES,78.85583333
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2012,Retail,KES,78.54333333
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2013,Retail,KES,72.3
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2014,Retail,KES,76.0625
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2015,Retail,KES,78.91666667
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2016,Retail,KES,74.375
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2017,Retail,KES,86.51666667
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2018,Retail,KES,76.01666667
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2019,Retail,KES,82.625
+Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,2020,Retail,KES,88.75
+Eastern,Kitui,Kitui town (Kitui),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,2923.666667
+Eastern,Kitui,Kitui town (Kitui),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,9024
+Eastern,Kitui,Kitui town (Kitui),cereals and tubers,"Potatoes (Irish, red)",50 KG,2021,Wholesale,KES,800
+Eastern,Kitui,Kitui town (Kitui),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,862.3333333
+Eastern,Kitui,Kitui town (Kitui),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,4651
+Eastern,Kitui,Kitui town (Kitui),pulses and nuts,Beans (dolichos),90 KG,2021,Wholesale,KES,8249
+Eastern,Kitui,Kitui town (Kitui),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,6666
+Eastern,Kitui,Kitui town (Kitui),pulses and nuts,Beans (mung),90 KG,2021,Wholesale,KES,10165.5
+Eastern,Kitui,Kitui town (Kitui),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,7981.666667
+Eastern,Kitui,Kitui town (Kitui),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,9099
+Eastern,Kitui,Kitui town (Kitui),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,2167.2
+Eastern,Kitui,Kitui town (Kitui),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,1333.333333
+Eastern,Kitui,Kitui town (Kitui),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,804.6666667
+Eastern,Kitui,Kitui town (Kitui),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,2416.266667
+Eastern,Machakos,Tala Centre Market (Machakos),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,7200
+Eastern,Machakos,Tala Centre Market (Machakos),cereals and tubers,"Potatoes (Irish, red)",50 KG,2021,Wholesale,KES,1276.11
+Eastern,Machakos,Tala Centre Market (Machakos),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,1276.11
+Eastern,Machakos,Tala Centre Market (Machakos),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,6875
+Eastern,Machakos,Tala Centre Market (Machakos),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,4500
+Eastern,Machakos,Tala Centre Market (Machakos),pulses and nuts,Beans (dolichos),90 KG,2021,Wholesale,KES,8718.666667
+Eastern,Machakos,Tala Centre Market (Machakos),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,6912.666667
+Eastern,Machakos,Tala Centre Market (Machakos),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,6912.666667
+Eastern,Machakos,Tala Centre Market (Machakos),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,8662.666667
+Eastern,Machakos,Tala Centre Market (Machakos),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,6550
+Eastern,Machakos,Tala Centre Market (Machakos),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,2695
+Eastern,Machakos,Tala Centre Market (Machakos),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,1260.333333
+Eastern,Machakos,Tala Centre Market (Machakos),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,775.2233333
+Eastern,Machakos,Tala Centre Market (Machakos),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,2676.4
+Eastern,Makueni,Kathonzweni (Makueni),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,2497.5
+Eastern,Makueni,Kathonzweni (Makueni),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,2166.835
+Eastern,Makueni,Kathonzweni (Makueni),pulses and nuts,Beans (mung),90 KG,2021,Wholesale,KES,9000
+Eastern,Makueni,Kathonzweni (Makueni),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,7650
+Eastern,Makueni,Kathonzweni (Makueni),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,3832.5
+Eastern,Makueni,Kathonzweni (Makueni),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,715
+Eastern,Makueni,Kathonzweni (Makueni),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,2826.5
+Eastern,Makueni,Wote town (Makueni),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,2700
+Eastern,Makueni,Wote town (Makueni),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,7074.6
+Eastern,Makueni,Wote town (Makueni),pulses and nuts,Beans (mung),90 KG,2021,Wholesale,KES,7650
+Eastern,Makueni,Wote town (Makueni),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,7061.4
+Eastern,Makueni,Wote town (Makueni),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,7338.6
+Eastern,Makueni,Wote town (Makueni),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,4500
+Eastern,Makueni,Wote town (Makueni),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,2178.75
+Eastern,Makueni,Wote town (Makueni),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,722.8
+Eastern,Makueni,Wote town (Makueni),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,2517.25
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2006,Retail,KES,21.25
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2007,Retail,KES,16
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2008,Retail,KES,29.58333333
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2009,Retail,KES,43.75
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2010,Retail,KES,34.33333333
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2011,Retail,KES,46.50888889
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2012,Retail,KES,49.91
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2013,Retail,KES,50.26727273
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2014,Retail,KES,49.8625
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2015,Retail,KES,50.23636364
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2016,Retail,KES,45.1
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2017,Retail,KES,49.35
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2018,Retail,KES,46.08333333
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2019,Retail,KES,46.775
+Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,2020,Retail,KES,45.44444444
+Eastern,Marsabit,Marsabit town,cereals and tubers,Maize,KG,2021,Retail,KES,40
+Eastern,Marsabit,Marsabit town,cereals and tubers,Maize flour,KG,2021,Retail,KES,69.58333333
+Eastern,Marsabit,Marsabit town,cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,73.33333333
+Eastern,Marsabit,Marsabit town,cereals and tubers,Rice,KG,2021,Retail,KES,130
+Eastern,Marsabit,Marsabit town,cereals and tubers,Sorghum,KG,2021,Retail,KES,50
+Eastern,Marsabit,Marsabit town,cereals and tubers,Wheat flour,KG,2021,Retail,KES,79.16666667
+Eastern,Marsabit,Marsabit town,"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,483.3333333
+Eastern,Marsabit,Marsabit town,"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,500
+Eastern,Marsabit,Marsabit town,milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,61.66666667
+Eastern,Marsabit,Marsabit town,milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,120
+Eastern,Marsabit,Marsabit town,miscellaneous food,Salt,200 G,2021,Retail,KES,16.66666667
+Eastern,Marsabit,Marsabit town,miscellaneous food,Sugar,KG,2021,Retail,KES,123.3333333
+Eastern,Marsabit,Marsabit town,oil and fats,Cooking fat,KG,2021,Retail,KES,175.8333333
+Eastern,Marsabit,Marsabit town,oil and fats,Oil (vegetable),L,2021,Retail,KES,259.1666667
+Eastern,Marsabit,Marsabit town,pulses and nuts,Beans (dry),KG,2021,Retail,KES,133.3333333
+Eastern,Marsabit,Marsabit town,vegetables and fruits,Bananas,Unit,2021,Retail,KES,10
+Eastern,Meru South,Kaanwa (Tharaka Nithi),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,2474
+Eastern,Meru South,Kaanwa (Tharaka Nithi),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,6125
+Eastern,Meru South,Kaanwa (Tharaka Nithi),cereals and tubers,"Potatoes (Irish, red)",50 KG,2021,Wholesale,KES,1319.333333
+Eastern,Meru South,Kaanwa (Tharaka Nithi),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,1289.333333
+Eastern,Meru South,Kaanwa (Tharaka Nithi),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,6025
+Eastern,Meru South,Kaanwa (Tharaka Nithi),cereals and tubers,Sorghum (white),90 KG,2021,Wholesale,KES,5900
+Eastern,Meru South,Kaanwa (Tharaka Nithi),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,7200
+Eastern,Meru South,Kaanwa (Tharaka Nithi),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,6800
+Eastern,Meru South,Kaanwa (Tharaka Nithi),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,8080
+Eastern,Meru South,Kaanwa (Tharaka Nithi),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,6500
+Eastern,Meru South,Kaanwa (Tharaka Nithi),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,3465
+Eastern,Meru South,Kaanwa (Tharaka Nithi),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,1295.223333
+Eastern,Meru South,Kaanwa (Tharaka Nithi),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,772
+Eastern,Meru South,Kaanwa (Tharaka Nithi),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,2675.666667
+Nairobi,Nairobi,Dandora (Nairobi),cereals and tubers,Maize,KG,2021,Retail,KES,49.205
+Nairobi,Nairobi,Dandora (Nairobi),cereals and tubers,Maize flour,KG,2021,Retail,KES,52.155
+Nairobi,Nairobi,Dandora (Nairobi),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,57.006
+Nairobi,Nairobi,Dandora (Nairobi),cereals and tubers,Rice,KG,2021,Retail,KES,97.826
+Nairobi,Nairobi,Dandora (Nairobi),cereals and tubers,Sorghum,KG,2021,Retail,KES,80.831
+Nairobi,Nairobi,Dandora (Nairobi),cereals and tubers,Wheat flour,KG,2021,Retail,KES,65.171
+Nairobi,Nairobi,Dandora (Nairobi),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,559.035
+Nairobi,Nairobi,Dandora (Nairobi),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,546.11
+Nairobi,Nairobi,Dandora (Nairobi),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,50.10444444
+Nairobi,Nairobi,Dandora (Nairobi),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,60
+Nairobi,Nairobi,Dandora (Nairobi),miscellaneous food,Salt,200 G,2021,Retail,KES,10
+Nairobi,Nairobi,Dandora (Nairobi),miscellaneous food,Sugar,KG,2021,Retail,KES,104.097
+Nairobi,Nairobi,Dandora (Nairobi),oil and fats,Cooking fat,KG,2021,Retail,KES,143.6566667
+Nairobi,Nairobi,Dandora (Nairobi),oil and fats,Oil (vegetable),L,2021,Retail,KES,197
+Nairobi,Nairobi,Dandora (Nairobi),pulses and nuts,Beans (dry),KG,2021,Retail,KES,97.855
+Nairobi,Nairobi,Dandora (Nairobi),vegetables and fruits,Bananas,Unit,2021,Retail,KES,5.159
+Nairobi,Nairobi,Dandora (Nairobi),vegetables and fruits,Cabbage,Head,2021,Retail,KES,31.87
+Nairobi,Nairobi,Dandora (Nairobi),vegetables and fruits,Kale,Bunch,2021,Retail,KES,5.3
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,Maize,KG,2021,Retail,KES,49.65666667
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,3150.083333
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,Maize flour,KG,2021,Retail,KES,55.32636364
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,9823.5
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,51.647
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,1424.89
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,Rice,KG,2021,Retail,KES,98.86272727
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,7994.333333
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,Sorghum,KG,2021,Retail,KES,76.552
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,5850
+Nairobi,Nairobi,Kangemi (Nairobi),cereals and tubers,Wheat flour,KG,2021,Retail,KES,64.45636364
+Nairobi,Nairobi,Kangemi (Nairobi),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,526.19
+Nairobi,Nairobi,Kangemi (Nairobi),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,566.3333333
+Nairobi,Nairobi,Kangemi (Nairobi),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,50.74818182
+Nairobi,Nairobi,Kangemi (Nairobi),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,62.65
+Nairobi,Nairobi,Kangemi (Nairobi),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,55
+Nairobi,Nairobi,Kangemi (Nairobi),miscellaneous food,Salt,200 G,2021,Retail,KES,9.714545455
+Nairobi,Nairobi,Kangemi (Nairobi),miscellaneous food,Sugar,KG,2021,Retail,KES,106.1881818
+Nairobi,Nairobi,Kangemi (Nairobi),oil and fats,Cooking fat,KG,2021,Retail,KES,138.2233333
+Nairobi,Nairobi,Kangemi (Nairobi),oil and fats,Oil (vegetable),L,2021,Retail,KES,208.2518182
+Nairobi,Nairobi,Kangemi (Nairobi),pulses and nuts,Beans (dolichos),90 KG,2021,Wholesale,KES,10067
+Nairobi,Nairobi,Kangemi (Nairobi),pulses and nuts,Beans (dry),KG,2021,Retail,KES,104.08
+Nairobi,Nairobi,Kangemi (Nairobi),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,8550
+Nairobi,Nairobi,Kangemi (Nairobi),pulses and nuts,Beans (mung),90 KG,2021,Wholesale,KES,11475
+Nairobi,Nairobi,Kangemi (Nairobi),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,9134.5
+Nairobi,Nairobi,Kangemi (Nairobi),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,9637.666667
+Nairobi,Nairobi,Kangemi (Nairobi),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,7125
+Nairobi,Nairobi,Kangemi (Nairobi),vegetables and fruits,Bananas,Unit,2021,Retail,KES,6.848181818
+Nairobi,Nairobi,Kangemi (Nairobi),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,2065.166667
+Nairobi,Nairobi,Kangemi (Nairobi),vegetables and fruits,Cabbage,Head,2021,Retail,KES,33.73
+Nairobi,Nairobi,Kangemi (Nairobi),vegetables and fruits,Kale,Bunch,2021,Retail,KES,5.12
+Nairobi,Nairobi,Kangemi (Nairobi),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,771.8
+Nairobi,Nairobi,Kangemi (Nairobi),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,3769.533333
+Nairobi,Nairobi,Kawangware (Nairobi),cereals and tubers,Maize,KG,2021,Retail,KES,49.096
+Nairobi,Nairobi,Kawangware (Nairobi),cereals and tubers,Maize flour,KG,2021,Retail,KES,55.87
+Nairobi,Nairobi,Kawangware (Nairobi),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,51.68
+Nairobi,Nairobi,Kawangware (Nairobi),cereals and tubers,Rice,KG,2021,Retail,KES,98.80272727
+Nairobi,Nairobi,Kawangware (Nairobi),cereals and tubers,Sorghum,KG,2021,Retail,KES,75.596
+Nairobi,Nairobi,Kawangware (Nairobi),cereals and tubers,Wheat flour,KG,2021,Retail,KES,64.90454545
+Nairobi,Nairobi,Kawangware (Nairobi),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,525.8709091
+Nairobi,Nairobi,Kawangware (Nairobi),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,540.715
+Nairobi,Nairobi,Kawangware (Nairobi),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,50.82636364
+Nairobi,Nairobi,Kawangware (Nairobi),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,62.63
+Nairobi,Nairobi,Kawangware (Nairobi),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,62.5
+Nairobi,Nairobi,Kawangware (Nairobi),miscellaneous food,Salt,200 G,2021,Retail,KES,9.669090909
+Nairobi,Nairobi,Kawangware (Nairobi),miscellaneous food,Sugar,KG,2021,Retail,KES,108.6218182
+Nairobi,Nairobi,Kawangware (Nairobi),oil and fats,Cooking fat,KG,2021,Retail,KES,143.0775
+Nairobi,Nairobi,Kawangware (Nairobi),oil and fats,Oil (vegetable),L,2021,Retail,KES,207.5609091
+Nairobi,Nairobi,Kawangware (Nairobi),pulses and nuts,Beans (dry),KG,2021,Retail,KES,106.326
+Nairobi,Nairobi,Kawangware (Nairobi),vegetables and fruits,Bananas,Unit,2021,Retail,KES,6.624545455
+Nairobi,Nairobi,Kawangware (Nairobi),vegetables and fruits,Cabbage,Head,2021,Retail,KES,35
+Nairobi,Nairobi,Kawangware (Nairobi),vegetables and fruits,Kale,Bunch,2021,Retail,KES,5
+Nairobi,Nairobi,Kibra (Nairobi),cereals and tubers,Maize,KG,2021,Retail,KES,49.00555556
+Nairobi,Nairobi,Kibra (Nairobi),cereals and tubers,Maize flour,KG,2021,Retail,KES,53.82818182
+Nairobi,Nairobi,Kibra (Nairobi),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,55.896
+Nairobi,Nairobi,Kibra (Nairobi),cereals and tubers,Rice,KG,2021,Retail,KES,98.91909091
+Nairobi,Nairobi,Kibra (Nairobi),cereals and tubers,Sorghum,KG,2021,Retail,KES,78.22272727
+Nairobi,Nairobi,Kibra (Nairobi),cereals and tubers,Wheat flour,KG,2021,Retail,KES,64.94454545
+Nairobi,Nairobi,Kibra (Nairobi),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,486.11
+Nairobi,Nairobi,Kibra (Nairobi),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,525
+Nairobi,Nairobi,Kibra (Nairobi),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,50.70454545
+Nairobi,Nairobi,Kibra (Nairobi),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,70
+Nairobi,Nairobi,Kibra (Nairobi),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,60
+Nairobi,Nairobi,Kibra (Nairobi),miscellaneous food,Salt,200 G,2021,Retail,KES,9.927272727
+Nairobi,Nairobi,Kibra (Nairobi),miscellaneous food,Sugar,KG,2021,Retail,KES,106.0090909
+Nairobi,Nairobi,Kibra (Nairobi),oil and fats,Cooking fat,KG,2021,Retail,KES,136.25
+Nairobi,Nairobi,Kibra (Nairobi),oil and fats,Oil (vegetable),L,2021,Retail,KES,191.2245455
+Nairobi,Nairobi,Kibra (Nairobi),pulses and nuts,Beans (dry),KG,2021,Retail,KES,108.4563636
+Nairobi,Nairobi,Kibra (Nairobi),vegetables and fruits,Bananas,Unit,2021,Retail,KES,5.212
+Nairobi,Nairobi,Kibra (Nairobi),vegetables and fruits,Cabbage,Head,2021,Retail,KES,31.22
+Nairobi,Nairobi,Kibra (Nairobi),vegetables and fruits,Kale,Bunch,2021,Retail,KES,5
+Nairobi,Nairobi,Kitengela (Kajiado),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,3152.5
+Nairobi,Nairobi,Kitengela (Kajiado),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,8400
+Nairobi,Nairobi,Kitengela (Kajiado),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,1131.666667
+Nairobi,Nairobi,Kitengela (Kajiado),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,6638.89
+Nairobi,Nairobi,Kitengela (Kajiado),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,4500
+Nairobi,Nairobi,Kitengela (Kajiado),pulses and nuts,Beans (dolichos),90 KG,2021,Wholesale,KES,8014.666667
+Nairobi,Nairobi,Kitengela (Kajiado),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,7067
+Nairobi,Nairobi,Kitengela (Kajiado),pulses and nuts,Beans (mung),90 KG,2021,Wholesale,KES,11230
+Nairobi,Nairobi,Kitengela (Kajiado),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,7233
+Nairobi,Nairobi,Kitengela (Kajiado),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,8329.666667
+Nairobi,Nairobi,Kitengela (Kajiado),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,8100
+Nairobi,Nairobi,Kitengela (Kajiado),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,2236.666667
+Nairobi,Nairobi,Kitengela (Kajiado),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,1375
+Nairobi,Nairobi,Kitengela (Kajiado),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,650
+Nairobi,Nairobi,Kitengela (Kajiado),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,3431.11
+Nairobi,Nairobi,Mathare (Nairobi),cereals and tubers,Maize,KG,2021,Retail,KES,48.01875
+Nairobi,Nairobi,Mathare (Nairobi),cereals and tubers,Maize flour,KG,2021,Retail,KES,55.154
+Nairobi,Nairobi,Mathare (Nairobi),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,49.12
+Nairobi,Nairobi,Mathare (Nairobi),cereals and tubers,Rice,KG,2021,Retail,KES,98.194
+Nairobi,Nairobi,Mathare (Nairobi),cereals and tubers,Sorghum,KG,2021,Retail,KES,71.991
+Nairobi,Nairobi,Mathare (Nairobi),cereals and tubers,Wheat flour,KG,2021,Retail,KES,69.309
+Nairobi,Nairobi,Mathare (Nairobi),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,520.0054545
+Nairobi,Nairobi,Mathare (Nairobi),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,518.3333333
+Nairobi,Nairobi,Mathare (Nairobi),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,50.234
+Nairobi,Nairobi,Mathare (Nairobi),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,61.11111111
+Nairobi,Nairobi,Mathare (Nairobi),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,60
+Nairobi,Nairobi,Mathare (Nairobi),miscellaneous food,Salt,200 G,2021,Retail,KES,10.095
+Nairobi,Nairobi,Mathare (Nairobi),miscellaneous food,Sugar,KG,2021,Retail,KES,104.171
+Nairobi,Nairobi,Mathare (Nairobi),oil and fats,Cooking fat,KG,2021,Retail,KES,148.2271429
+Nairobi,Nairobi,Mathare (Nairobi),oil and fats,Oil (vegetable),L,2021,Retail,KES,213.78
+Nairobi,Nairobi,Mathare (Nairobi),pulses and nuts,Beans (dry),KG,2021,Retail,KES,103.102
+Nairobi,Nairobi,Mathare (Nairobi),vegetables and fruits,Bananas,Unit,2021,Retail,KES,5.091
+Nairobi,Nairobi,Mathare (Nairobi),vegetables and fruits,Cabbage,Head,2021,Retail,KES,32.22
+Nairobi,Nairobi,Mathare (Nairobi),vegetables and fruits,Kale,Bunch,2021,Retail,KES,5
+Nairobi,Nairobi,Mukuru (Nairobi),cereals and tubers,Maize,KG,2021,Retail,KES,47.71
+Nairobi,Nairobi,Mukuru (Nairobi),cereals and tubers,Maize flour,KG,2021,Retail,KES,54.263
+Nairobi,Nairobi,Mukuru (Nairobi),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,47.957
+Nairobi,Nairobi,Mukuru (Nairobi),cereals and tubers,Rice,KG,2021,Retail,KES,98.976
+Nairobi,Nairobi,Mukuru (Nairobi),cereals and tubers,Sorghum,KG,2021,Retail,KES,69.256
+Nairobi,Nairobi,Mukuru (Nairobi),cereals and tubers,Wheat flour,KG,2021,Retail,KES,68.504
+Nairobi,Nairobi,Mukuru (Nairobi),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,515.364
+Nairobi,Nairobi,Mukuru (Nairobi),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,451
+Nairobi,Nairobi,Mukuru (Nairobi),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,512.5
+Nairobi,Nairobi,Mukuru (Nairobi),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,50.076
+Nairobi,Nairobi,Mukuru (Nairobi),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,60
+Nairobi,Nairobi,Mukuru (Nairobi),miscellaneous food,Salt,200 G,2021,Retail,KES,9.939
+Nairobi,Nairobi,Mukuru (Nairobi),miscellaneous food,Sugar,KG,2021,Retail,KES,103.029
+Nairobi,Nairobi,Mukuru (Nairobi),oil and fats,Cooking fat,KG,2021,Retail,KES,151.8733333
+Nairobi,Nairobi,Mukuru (Nairobi),oil and fats,Oil (vegetable),L,2021,Retail,KES,206.007
+Nairobi,Nairobi,Mukuru (Nairobi),pulses and nuts,Beans (dry),KG,2021,Retail,KES,101.897
+Nairobi,Nairobi,Mukuru (Nairobi),vegetables and fruits,Bananas,Unit,2021,Retail,KES,5.563
+Nairobi,Nairobi,Mukuru (Nairobi),vegetables and fruits,Cabbage,Head,2021,Retail,KES,30.415
+Nairobi,Nairobi,Mukuru (Nairobi),vegetables and fruits,Kale,Bunch,2021,Retail,KES,5
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2006,Retail,KES,26.16666667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2007,Retail,KES,28.33333333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2008,Retail,KES,33.33333333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2009,Retail,KES,33.91666667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2010,Retail,KES,35.5
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2011,Retail,KES,39.83333333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2012,Retail,KES,42.66666667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2013,Retail,KES,46.16666667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2014,Retail,KES,47.68416667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2015,Retail,KES,49.66666667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2016,Retail,KES,48.09090909
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2017,Retail,KES,46
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2018,Retail,KES,44.66666667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2019,Retail,KES,43.5
+Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,2020,Retail,KES,44.16666667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2006,Wholesale,KES,16.10583333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2007,Wholesale,KES,13.52583333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2008,Wholesale,KES,20.74083333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2009,Wholesale,KES,28.13333333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2010,Wholesale,KES,19.16833333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2011,Wholesale,KES,32.39416667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2012,Wholesale,KES,34.61083333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2013,Wholesale,KES,31.84416667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2014,Wholesale,KES,30.36333333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2015,Wholesale,KES,32.54833333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2016,Wholesale,KES,31.25916667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2017,Wholesale,KES,44.00083333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2018,Wholesale,KES,30.15545455
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2019,Wholesale,KES,34.3475
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2020,Retail,KES,52
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2020,Wholesale,KES,33.92333333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,2021,Wholesale,KES,33.94363636
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2006,Wholesale,KES,1455.745
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2007,Wholesale,KES,1222.095
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2008,Wholesale,KES,1941.833333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2009,Wholesale,KES,2634.083333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2010,Wholesale,KES,1929.25
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2011,Wholesale,KES,3032.916667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2012,Wholesale,KES,3155.75
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2013,Wholesale,KES,3024.666667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2014,Wholesale,KES,2949.2975
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2015,Wholesale,KES,2742.93
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2016,Wholesale,KES,2722.939091
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2017,Wholesale,KES,3860.7775
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2018,Wholesale,KES,2545.760833
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2019,Wholesale,KES,3305.156667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,2020,Wholesale,KES,3181.083333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Maize flour,KG,2020,Retail,KES,62
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2006,Wholesale,KES,894.2991667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2007,Wholesale,KES,1095.9925
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2008,Wholesale,KES,1102.298333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2009,Wholesale,KES,1629.613333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2010,Wholesale,KES,1449.670833
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2011,Wholesale,KES,1845.503333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2012,Wholesale,KES,2176.809091
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2013,Wholesale,KES,1847.261667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2014,Wholesale,KES,1766.554167
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2015,Wholesale,KES,1801.9425
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2016,Wholesale,KES,2568.511667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2017,Wholesale,KES,2370.576667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2018,Wholesale,KES,2384.4375
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2019,Wholesale,KES,2436.875
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,2020,Wholesale,KES,2424.443333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),KG,2020,Retail,KES,61
+Nairobi,Nairobi,Nairobi,cereals and tubers,Rice,KG,2020,Retail,KES,104
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2006,Wholesale,KES,2012.078333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2007,Wholesale,KES,1718.028333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2008,Wholesale,KES,2479.968333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2009,Wholesale,KES,2822.583333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2010,Wholesale,KES,2906.833333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2011,Wholesale,KES,3344.666667
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2012,Wholesale,KES,3587.090909
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2013,Wholesale,KES,4114.25
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2014,Wholesale,KES,3804.8325
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2015,Wholesale,KES,3618.430833
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2016,Wholesale,KES,3374.852727
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2017,Wholesale,KES,4796.173333
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2018,Wholesale,KES,3949.979167
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2019,Wholesale,KES,5124.979167
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,2020,Wholesale,KES,5300
+Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,KG,2020,Retail,KES,84
+Nairobi,Nairobi,Nairobi,cereals and tubers,Wheat flour,KG,2020,Retail,KES,62
+Nairobi,Nairobi,Nairobi,"meat, fish and eggs",Meat (beef),KG,2020,Retail,KES,431
+Nairobi,Nairobi,Nairobi,"meat, fish and eggs",Meat (goat),KG,2020,Retail,KES,533.17
+Nairobi,Nairobi,Nairobi,milk and dairy,Milk (UHT),200 ML,2020,Retail,KES,27
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2006,Retail,KES,22.5
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2007,Retail,KES,21.08333333
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2008,Retail,KES,24.91666667
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2009,Retail,KES,28.5
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2010,Retail,KES,27.75
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2011,Retail,KES,30.5
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2012,Retail,KES,37.16666667
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2013,Retail,KES,43.41666667
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2014,Retail,KES,44.33833333
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2015,Retail,KES,47.58333333
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2016,Retail,KES,49
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2017,Retail,KES,49.09818182
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2018,Retail,KES,44.44416667
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2019,Retail,KES,44.25
+Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,2020,Retail,KES,45.06833333
+Nairobi,Nairobi,Nairobi,miscellaneous food,Sugar,KG,2020,Retail,KES,107
+Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,2014,Retail,KES,103.825
+Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,2015,Retail,KES,81.38428571
+Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,2016,Retail,KES,76.61454545
+Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,2017,Retail,KES,86.29909091
+Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,2018,Retail,KES,103.2216667
+Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,2019,Retail,KES,101.825
+Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,2020,Retail,KES,92.09
+Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,2014,Retail,KES,83.585
+Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,2015,Retail,KES,58.23714286
+Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,2016,Retail,KES,53.47
+Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,2017,Retail,KES,64.18363636
+Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,2018,Retail,KES,89.4275
+Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,2019,Retail,KES,101.8975
+Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,2020,Retail,KES,82.05
+Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,2014,Retail,KES,116.24
+Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,2015,Retail,KES,96.72142857
+Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,2016,Retail,KES,89.39090909
+Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,2017,Retail,KES,97.00909091
+Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,2018,Retail,KES,111.2083333
+Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,2019,Retail,KES,109.0166667
+Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,2020,Retail,KES,100.92
+Nairobi,Nairobi,Nairobi,oil and fats,Cooking fat,KG,2020,Retail,KES,104
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2006,Retail,KES,120.25
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2007,Retail,KES,134.5833333
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2008,Retail,KES,177
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2009,Retail,KES,135.8333333
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2010,Retail,KES,155.8333333
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2011,Retail,KES,218.5833333
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2012,Retail,KES,238
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2013,Retail,KES,217.5
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2014,Retail,KES,208.5208333
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2015,Retail,KES,192.8333333
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2016,Retail,KES,179.6363636
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2017,Retail,KES,188.0145455
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2018,Retail,KES,189.0891667
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2019,Retail,KES,185.4308333
+Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,2020,Retail,KES,171.2066667
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2006,Wholesale,KES,38.255
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2007,Wholesale,KES,34.26083333
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2008,Wholesale,KES,51.36166667
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2009,Wholesale,KES,51.14083333
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2010,Wholesale,KES,52.48166667
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2011,Wholesale,KES,65.48083333
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2012,Wholesale,KES,59.26833333
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2013,Wholesale,KES,64.93416667
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2014,Wholesale,KES,60.41416667
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2015,Wholesale,KES,68.24222222
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2017,Wholesale,KES,63.33
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2018,Wholesale,KES,58.844
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2019,Wholesale,KES,54.76142857
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2020,Wholesale,KES,78.41
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,2021,Wholesale,KES,62.97625
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2006,Wholesale,KES,3365.25
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2007,Wholesale,KES,3205.166667
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2008,Wholesale,KES,4788.916667
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2009,Wholesale,KES,4813.25
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2010,Wholesale,KES,4581.583333
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2011,Wholesale,KES,5821.583333
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2012,Wholesale,KES,5549.416667
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2013,Wholesale,KES,5855.333333
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2014,Wholesale,KES,5924.913333
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2015,Wholesale,KES,6305.333333
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2016,Wholesale,KES,5995.910909
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2017,Wholesale,KES,7291.5275
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2018,Wholesale,KES,6760.1975
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2019,Wholesale,KES,7692.104167
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,2020,Wholesale,KES,8536
+Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),KG,2020,Retail,KES,108
+Nairobi,Nairobi,Nairobi,vegetables and fruits,Bananas,Unit,2020,Retail,KES,8
+Nairobi,Nairobi,Nairobi,vegetables and fruits,Kale,Bunch,2020,Retail,KES,6
+Nairobi,Nairobi,Nairobi,vegetables and fruits,Onions (red),KG,2020,Retail,KES,57
+Nairobi,Nairobi,Nairobi,vegetables and fruits,Tomatoes,KG,2020,Retail,KES,58
+Nairobi,Nairobi,Wakulima (Nairobi),cereals and tubers,"Potatoes (Irish, red)",50 KG,2021,Wholesale,KES,1800
+Nairobi,Nairobi,Wakulima (Nairobi),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,1682.416667
+Nairobi,Nairobi,Wakulima (Nairobi),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,492.5
+Nairobi,Nairobi,Wakulima (Nairobi),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,6895
+North Eastern,Garissa,Dadaab town,cereals and tubers,Maize flour,KG,2021,Retail,KES,60
+North Eastern,Garissa,Dadaab town,cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,55
+North Eastern,Garissa,Dadaab town,cereals and tubers,Rice,KG,2021,Retail,KES,90
+North Eastern,Garissa,Dadaab town,cereals and tubers,Wheat flour,KG,2021,Retail,KES,70
+North Eastern,Garissa,Dadaab town,"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,450
+North Eastern,Garissa,Dadaab town,"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,500
+North Eastern,Garissa,Dadaab town,milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,40
+North Eastern,Garissa,Dadaab town,miscellaneous food,Salt,200 G,2021,Retail,KES,10
+North Eastern,Garissa,Dadaab town,miscellaneous food,Sugar,KG,2021,Retail,KES,100
+North Eastern,Garissa,Dadaab town,oil and fats,Oil (vegetable),L,2021,Retail,KES,200
+North Eastern,Garissa,Dadaab town,pulses and nuts,Beans (dry),KG,2021,Retail,KES,90
+North Eastern,Garissa,Dadaab town,vegetables and fruits,Bananas,Unit,2021,Retail,KES,7.5
+North Eastern,Garissa,Dagahaley (Daadab),cereals and tubers,Maize,KG,2021,Retail,KES,58.95875
+North Eastern,Garissa,Dagahaley (Daadab),cereals and tubers,Maize flour,KG,2021,Retail,KES,63.81181818
+North Eastern,Garissa,Dagahaley (Daadab),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,50.00636364
+North Eastern,Garissa,Dagahaley (Daadab),cereals and tubers,Rice,KG,2021,Retail,KES,83.11285714
+North Eastern,Garissa,Dagahaley (Daadab),cereals and tubers,Sorghum,KG,2021,Retail,KES,62.79888889
+North Eastern,Garissa,Dagahaley (Daadab),cereals and tubers,Wheat flour,KG,2021,Retail,KES,72.34909091
+North Eastern,Garissa,Dagahaley (Daadab),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,400
+North Eastern,Garissa,Dagahaley (Daadab),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,616.6666667
+North Eastern,Garissa,Dagahaley (Daadab),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,56.19
+North Eastern,Garissa,Dagahaley (Daadab),miscellaneous food,Salt,200 G,2021,Retail,KES,9.959090909
+North Eastern,Garissa,Dagahaley (Daadab),miscellaneous food,Sugar,KG,2021,Retail,KES,95.85636364
+North Eastern,Garissa,Dagahaley (Daadab),oil and fats,Cooking fat,KG,2021,Retail,KES,200
+North Eastern,Garissa,Dagahaley (Daadab),oil and fats,Oil (vegetable),L,2021,Retail,KES,203.4481818
+North Eastern,Garissa,Dagahaley (Daadab),pulses and nuts,Beans (dry),KG,2021,Retail,KES,100.9490909
+North Eastern,Garissa,Dagahaley (Daadab),vegetables and fruits,Bananas,Unit,2021,Retail,KES,9.695
+North Eastern,Garissa,Dagahaley (Daadab),vegetables and fruits,Cabbage,Head,2021,Retail,KES,120
+North Eastern,Garissa,Dagahaley (Daadab),vegetables and fruits,Kale,Bunch,2021,Retail,KES,40
+North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,2015,Retail,KES,55.83333333
+North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,2016,Retail,KES,52.36363636
+North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,2017,Retail,KES,60.33333333
+North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,2018,Retail,KES,62.91666667
+North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,2019,Retail,KES,66.58333333
+North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,2020,Retail,KES,68.88888889
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Maize,KG,2021,Retail,KES,66.335
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,5220
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Maize flour,KG,2021,Retail,KES,70
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,7020
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,57.91666667
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,1235.583333
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Rice,KG,2021,Retail,KES,79.58333333
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,5583.333333
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Sorghum,KG,2021,Retail,KES,100
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,6795
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Sorghum (white),90 KG,2021,Wholesale,KES,6828.666667
+North Eastern,Garissa,Garissa town (Garissa),cereals and tubers,Wheat flour,KG,2021,Retail,KES,69.16666667
+North Eastern,Garissa,Garissa town (Garissa),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,45
+North Eastern,Garissa,Garissa town (Garissa),miscellaneous food,Salt,200 G,2021,Retail,KES,20.334
+North Eastern,Garissa,Garissa town (Garissa),miscellaneous food,Sugar,KG,2021,Retail,KES,105.6116667
+North Eastern,Garissa,Garissa town (Garissa),oil and fats,Cooking fat,KG,2021,Retail,KES,201.945
+North Eastern,Garissa,Garissa town (Garissa),oil and fats,Oil (vegetable),L,2021,Retail,KES,200
+North Eastern,Garissa,Garissa town (Garissa),pulses and nuts,Beans (dry),KG,2021,Retail,KES,116.43
+North Eastern,Garissa,Garissa town (Garissa),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,7321
+North Eastern,Garissa,Garissa town (Garissa),pulses and nuts,Beans (mung),90 KG,2021,Wholesale,KES,9900
+North Eastern,Garissa,Garissa town (Garissa),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,7200
+North Eastern,Garissa,Garissa town (Garissa),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,8451.75
+North Eastern,Garissa,Garissa town (Garissa),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,5385
+North Eastern,Garissa,Garissa town (Garissa),vegetables and fruits,Bananas,Unit,2021,Retail,KES,10
+North Eastern,Garissa,Garissa town (Garissa),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,10115
+North Eastern,Garissa,Garissa town (Garissa),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,1743.666667
+North Eastern,Garissa,Garissa town (Garissa),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,791
+North Eastern,Garissa,Garissa town (Garissa),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,2847
+North Eastern,Garissa,Hagadera (Daadab),cereals and tubers,Maize,KG,2021,Retail,KES,50.77333333
+North Eastern,Garissa,Hagadera (Daadab),cereals and tubers,Maize flour,KG,2021,Retail,KES,64.60454545
+North Eastern,Garissa,Hagadera (Daadab),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,50.205
+North Eastern,Garissa,Hagadera (Daadab),cereals and tubers,Rice,KG,2021,Retail,KES,87.1575
+North Eastern,Garissa,Hagadera (Daadab),cereals and tubers,Sorghum,KG,2021,Retail,KES,68.51545455
+North Eastern,Garissa,Hagadera (Daadab),cereals and tubers,Wheat flour,KG,2021,Retail,KES,73.79818182
+North Eastern,Garissa,Hagadera (Daadab),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,500
+North Eastern,Garissa,Hagadera (Daadab),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,492.0736364
+North Eastern,Garissa,Hagadera (Daadab),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,504.906
+North Eastern,Garissa,Hagadera (Daadab),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,52.28
+North Eastern,Garissa,Hagadera (Daadab),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,100
+North Eastern,Garissa,Hagadera (Daadab),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,80
+North Eastern,Garissa,Hagadera (Daadab),miscellaneous food,Salt,200 G,2021,Retail,KES,10.58
+North Eastern,Garissa,Hagadera (Daadab),miscellaneous food,Sugar,KG,2021,Retail,KES,99.90909091
+North Eastern,Garissa,Hagadera (Daadab),oil and fats,Oil (vegetable),L,2021,Retail,KES,208.8281818
+North Eastern,Garissa,Hagadera (Daadab),pulses and nuts,Beans (dry),KG,2021,Retail,KES,91.95272727
+North Eastern,Garissa,Hagadera (Daadab),vegetables and fruits,Bananas,Unit,2021,Retail,KES,8.889090909
+North Eastern,Garissa,Hagadera (Daadab),vegetables and fruits,Cabbage,Head,2021,Retail,KES,110
+North Eastern,Garissa,Hagadera (Daadab),vegetables and fruits,Kale,Bunch,2021,Retail,KES,40
+North Eastern,Garissa,IFO (Daadab),cereals and tubers,Maize,KG,2021,Retail,KES,49.55
+North Eastern,Garissa,IFO (Daadab),cereals and tubers,Maize flour,KG,2021,Retail,KES,63.827
+North Eastern,Garissa,IFO (Daadab),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,54.229
+North Eastern,Garissa,IFO (Daadab),cereals and tubers,Rice,KG,2021,Retail,KES,84.066
+North Eastern,Garissa,IFO (Daadab),cereals and tubers,Sorghum,KG,2021,Retail,KES,40.196
+North Eastern,Garissa,IFO (Daadab),cereals and tubers,Wheat flour,KG,2021,Retail,KES,72.696
+North Eastern,Garissa,IFO (Daadab),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,520.295
+North Eastern,Garissa,IFO (Daadab),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,571.651
+North Eastern,Garissa,IFO (Daadab),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,565.26875
+North Eastern,Garissa,IFO (Daadab),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,58.0875
+North Eastern,Garissa,IFO (Daadab),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,192
+North Eastern,Garissa,IFO (Daadab),miscellaneous food,Salt,200 G,2021,Retail,KES,10.029
+North Eastern,Garissa,IFO (Daadab),miscellaneous food,Sugar,KG,2021,Retail,KES,98.529
+North Eastern,Garissa,IFO (Daadab),oil and fats,Oil (vegetable),L,2021,Retail,KES,209.465
+North Eastern,Garissa,IFO (Daadab),pulses and nuts,Beans (dry),KG,2021,Retail,KES,99.615
+North Eastern,Garissa,IFO (Daadab),vegetables and fruits,Bananas,Unit,2021,Retail,KES,9.935
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2006,Retail,KES,25.91666667
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2007,Retail,KES,27.08333333
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2008,Retail,KES,33.08333333
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2009,Retail,KES,39.58333333
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2010,Retail,KES,40.66666667
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2011,Retail,KES,58.83333333
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2012,Retail,KES,78.65916667
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2013,Retail,KES,74.91666667
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2014,Retail,KES,59.66666667
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2015,Retail,KES,66.16666667
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2016,Retail,KES,62.23636364
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2017,Retail,KES,66.55
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2018,Retail,KES,65.54166667
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2019,Retail,KES,76.725
+North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,2020,Retail,KES,81.25
+North Eastern,Mandera,Takaba (Mandera),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,3960
+North Eastern,Mandera,Takaba (Mandera),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,7200
+North Eastern,Mandera,Takaba (Mandera),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,9000
+North Eastern,Wajir,Wajir town,cereals and tubers,Maize,KG,2021,Retail,KES,50
+North Eastern,Wajir,Wajir town,cereals and tubers,Maize flour,KG,2021,Retail,KES,71.39666667
+North Eastern,Wajir,Wajir town,cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,100
+North Eastern,Wajir,Wajir town,cereals and tubers,Rice,KG,2021,Retail,KES,141.555
+North Eastern,Wajir,Wajir town,cereals and tubers,Sorghum,KG,2021,Retail,KES,124.5833333
+North Eastern,Wajir,Wajir town,cereals and tubers,Wheat flour,KG,2021,Retail,KES,78.3
+North Eastern,Wajir,Wajir town,"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,500
+North Eastern,Wajir,Wajir town,"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,400
+North Eastern,Wajir,Wajir town,"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,495.835
+North Eastern,Wajir,Wajir town,milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,58.375
+North Eastern,Wajir,Wajir town,milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,94.666
+North Eastern,Wajir,Wajir town,milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,100
+North Eastern,Wajir,Wajir town,miscellaneous food,Salt,200 G,2021,Retail,KES,10
+North Eastern,Wajir,Wajir town,miscellaneous food,Sugar,KG,2021,Retail,KES,111.1116667
+North Eastern,Wajir,Wajir town,oil and fats,Cooking fat,KG,2021,Retail,KES,248.0833333
+North Eastern,Wajir,Wajir town,oil and fats,Oil (vegetable),L,2021,Retail,KES,242.2916667
+North Eastern,Wajir,Wajir town,pulses and nuts,Beans (dry),KG,2021,Retail,KES,125.5133333
+North Eastern,Wajir,Wajir town,vegetables and fruits,Bananas,Unit,2021,Retail,KES,16.875
+North Eastern,Wajir,Wajir town,vegetables and fruits,Cabbage,Head,2021,Retail,KES,130.83
+North Eastern,Wajir,Wajir town,vegetables and fruits,Kale,Bunch,2021,Retail,KES,50
+Nyanza,Kisumu,Kibuye (Kisumu),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,3152.25
+Nyanza,Kisumu,Kibuye (Kisumu),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,11997
+Nyanza,Kisumu,Kibuye (Kisumu),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,2325
+Nyanza,Kisumu,Kibuye (Kisumu),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,7501.25
+Nyanza,Kisumu,Kibuye (Kisumu),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,3996
+Nyanza,Kisumu,Kibuye (Kisumu),pulses and nuts,Beans (dolichos),90 KG,2021,Wholesale,KES,12249
+Nyanza,Kisumu,Kibuye (Kisumu),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,10597.5
+Nyanza,Kisumu,Kibuye (Kisumu),pulses and nuts,Beans (mung),90 KG,2021,Wholesale,KES,10896.75
+Nyanza,Kisumu,Kibuye (Kisumu),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,11396.25
+Nyanza,Kisumu,Kibuye (Kisumu),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,11196
+Nyanza,Kisumu,Kibuye (Kisumu),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,11997
+Nyanza,Kisumu,Kibuye (Kisumu),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,1541.25
+Nyanza,Kisumu,Kibuye (Kisumu),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,999.7
+Nyanza,Kisumu,Kibuye (Kisumu),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,5713.6
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2006,Wholesale,KES,15.25
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2008,Wholesale,KES,23.52
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2009,Wholesale,KES,28.82666667
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2010,Wholesale,KES,19.1
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2011,Wholesale,KES,44.01
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2012,Wholesale,KES,35.21
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2013,Wholesale,KES,34.52
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2014,Wholesale,KES,35.1
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2015,Wholesale,KES,32.17
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2016,Wholesale,KES,34.78
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2018,Wholesale,KES,30.88
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,2019,Wholesale,KES,39.95
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2006,Wholesale,KES,1447.74
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2007,Wholesale,KES,1313.575833
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2008,Wholesale,KES,2116
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2009,Wholesale,KES,2584.333333
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2010,Wholesale,KES,1922.75
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2011,Wholesale,KES,3322.75
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2012,Wholesale,KES,3623.583333
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2013,Wholesale,KES,3488.666667
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2014,Wholesale,KES,3441.621667
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2015,Wholesale,KES,3143.25
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2016,Wholesale,KES,3166.090909
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2017,Wholesale,KES,4410.25
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2018,Wholesale,KES,3050
+Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,2019,Wholesale,KES,3449.4
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2006,Wholesale,KES,1098.486667
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2007,Wholesale,KES,904.9016667
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2008,Wholesale,KES,1264.755
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2009,Wholesale,KES,1329.855
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2010,Wholesale,KES,1512.403333
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2011,Wholesale,KES,2073.28
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2012,Wholesale,KES,2670.043636
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2013,Wholesale,KES,1944.389167
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2014,Wholesale,KES,1938.771667
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2015,Wholesale,KES,2365.005833
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2016,Wholesale,KES,3113.515455
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2017,Wholesale,KES,2154.6875
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2018,Wholesale,KES,1799.819167
+Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,2019,Wholesale,KES,2268.375
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2006,Wholesale,KES,1503.888889
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2007,Wholesale,KES,1592.566667
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2008,Wholesale,KES,2208.733636
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2009,Wholesale,KES,2458.5
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2010,Wholesale,KES,2478
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2011,Wholesale,KES,3416.833333
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2012,Wholesale,KES,3543.916667
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2013,Wholesale,KES,3643.333333
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2014,Wholesale,KES,3530.541667
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2015,Wholesale,KES,3434.7225
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2016,Wholesale,KES,3270.454545
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2017,Wholesale,KES,4772.833333
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2018,Wholesale,KES,3666.458333
+Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,2019,Wholesale,KES,3639.5
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2006,Wholesale,KES,38.86833333
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2007,Wholesale,KES,40.79833333
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2008,Wholesale,KES,55.32222222
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2009,Wholesale,KES,58.3275
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2010,Wholesale,KES,51.50833333
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2011,Wholesale,KES,71.9975
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2012,Wholesale,KES,64.0025
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2013,Wholesale,KES,80.9275
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2014,Wholesale,KES,84.975
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2015,Wholesale,KES,70.63833333
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2016,Wholesale,KES,66.69416667
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2017,Wholesale,KES,76.93083333
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2018,Wholesale,KES,62.64333333
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,2019,Wholesale,KES,68.88428571
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2006,Wholesale,KES,3615.166667
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2007,Wholesale,KES,3547.666667
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2008,Wholesale,KES,5624.909091
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2009,Wholesale,KES,5429.916667
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2010,Wholesale,KES,4665
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2011,Wholesale,KES,6679
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2012,Wholesale,KES,6635.666667
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2013,Wholesale,KES,6748.75
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2014,Wholesale,KES,7197.820833
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2015,Wholesale,KES,6985.569167
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2016,Wholesale,KES,7070.090909
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2017,Wholesale,KES,8354.5
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2018,Wholesale,KES,7294.0275
+Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,2019,Wholesale,KES,8799.2
+Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,2015,Retail,KES,42.5
+Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,2016,Retail,KES,41.81818182
+Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,2017,Retail,KES,57.83333333
+Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,2018,Retail,KES,42
+Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,2019,Retail,KES,48.64444444
+Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,2020,Retail,KES,45.125
+Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,2015,Retail,KES,104.5
+Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,2016,Retail,KES,100.1818182
+Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,2017,Retail,KES,118.25
+Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,2018,Retail,KES,105.9166667
+Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,2019,Retail,KES,115.375
+Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,2020,Retail,KES,118.8175
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,Maize,KG,2021,Retail,KES,33.33333333
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,2700
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,Maize flour,KG,2021,Retail,KES,60
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,7200
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,50
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,3187.5
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,Rice,KG,2021,Retail,KES,100
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,5000
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,Sorghum,KG,2021,Retail,KES,72
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,4500
+Rift Valley,Baringo,Marigat town (Baringo),cereals and tubers,Wheat flour,KG,2021,Retail,KES,70
+Rift Valley,Baringo,Marigat town (Baringo),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,525
+Rift Valley,Baringo,Marigat town (Baringo),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,560
+Rift Valley,Baringo,Marigat town (Baringo),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,56
+Rift Valley,Baringo,Marigat town (Baringo),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,80
+Rift Valley,Baringo,Marigat town (Baringo),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,70
+Rift Valley,Baringo,Marigat town (Baringo),miscellaneous food,Salt,200 G,2021,Retail,KES,10
+Rift Valley,Baringo,Marigat town (Baringo),miscellaneous food,Sugar,KG,2021,Retail,KES,102
+Rift Valley,Baringo,Marigat town (Baringo),oil and fats,Cooking fat,KG,2021,Retail,KES,192
+Rift Valley,Baringo,Marigat town (Baringo),oil and fats,Oil (vegetable),L,2021,Retail,KES,246
+Rift Valley,Baringo,Marigat town (Baringo),pulses and nuts,Beans (dolichos),90 KG,2021,Wholesale,KES,8100
+Rift Valley,Baringo,Marigat town (Baringo),pulses and nuts,Beans (dry),KG,2021,Retail,KES,96
+Rift Valley,Baringo,Marigat town (Baringo),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,8175
+Rift Valley,Baringo,Marigat town (Baringo),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,8231.333333
+Rift Valley,Baringo,Marigat town (Baringo),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,10800
+Rift Valley,Baringo,Marigat town (Baringo),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,8100
+Rift Valley,Baringo,Marigat town (Baringo),vegetables and fruits,Bananas,Unit,2021,Retail,KES,8.75
+Rift Valley,Baringo,Marigat town (Baringo),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,4410
+Rift Valley,Baringo,Marigat town (Baringo),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,1500
+Rift Valley,Baringo,Marigat town (Baringo),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,660.8333333
+Rift Valley,Baringo,Marigat town (Baringo),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,3200
+Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,2015,Retail,KES,45.94833333
+Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,2016,Retail,KES,46.25727273
+Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,2017,Retail,KES,63.36666667
+Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,2018,Retail,KES,48
+Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,2019,Retail,KES,50.43333333
+Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,2020,Retail,KES,52.45454545
+Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,2015,Retail,KES,90.51166667
+Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,2016,Retail,KES,83.47
+Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,2017,Retail,KES,119.8416667
+Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,2018,Retail,KES,85.91666667
+Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,2019,Retail,KES,97.01666667
+Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,2020,Retail,KES,100.4545455
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2008,Wholesale,KES,20.95571429
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2009,Wholesale,KES,26.50714286
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2010,Wholesale,KES,16.85285714
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2011,Wholesale,KES,30.057
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2012,Wholesale,KES,31.61
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2013,Wholesale,KES,29.37875
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2014,Wholesale,KES,29.9725
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2015,Wholesale,KES,25.91636364
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2016,Wholesale,KES,26.71111111
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2017,Wholesale,KES,39.36
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2018,Wholesale,KES,21.75
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2019,Wholesale,KES,28.67444444
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2020,Wholesale,KES,31.98111111
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,2021,Wholesale,KES,28.73555556
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,2015,Wholesale,KES,2391.166667
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,2016,Wholesale,KES,2493.181818
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,2017,Wholesale,KES,3198.666667
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,2018,Wholesale,KES,2042.166667
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,2019,Wholesale,KES,2621.916667
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,2020,Wholesale,KES,2796.296667
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,2015,Wholesale,KES,2171.334167
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,2016,Wholesale,KES,3558.636364
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,2017,Wholesale,KES,2401.333333
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,2018,Wholesale,KES,2890.9375
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,2019,Wholesale,KES,2402.666667
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,2020,Wholesale,KES,2541.666667
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,2015,Wholesale,KES,3231.9375
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,2016,Wholesale,KES,3084
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,2017,Wholesale,KES,4276.333333
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,2018,Wholesale,KES,3354.323333
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,2019,Wholesale,KES,4160.416667
+Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,2020,Wholesale,KES,3185.416667
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2008,Wholesale,KES,50.86833333
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2009,Wholesale,KES,50.6675
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2010,Wholesale,KES,45.93
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2011,Wholesale,KES,57.3275
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2012,Wholesale,KES,61.0425
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2013,Wholesale,KES,66.54
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2014,Wholesale,KES,64.678
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2015,Wholesale,KES,58.68
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2016,Wholesale,KES,51.97727273
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2017,Wholesale,KES,63.4975
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2018,Wholesale,KES,51.40181818
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2019,Wholesale,KES,62.28
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,2021,Wholesale,KES,59.92
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,2015,Wholesale,KES,5848.958333
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,2016,Wholesale,KES,5488.454545
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,2017,Wholesale,KES,5691.666667
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,2018,Wholesale,KES,6119.166667
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,2019,Wholesale,KES,6644
+Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,2020,Wholesale,KES,6868.75
+Rift Valley,Nakuru,Wakulima (Nakuru),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,2624
+Rift Valley,Nakuru,Wakulima (Nakuru),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,9148.833333
+Rift Valley,Nakuru,Wakulima (Nakuru),cereals and tubers,"Potatoes (Irish, red)",50 KG,2021,Wholesale,KES,1300
+Rift Valley,Nakuru,Wakulima (Nakuru),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,1487.5
+Rift Valley,Nakuru,Wakulima (Nakuru),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,5495.25
+Rift Valley,Nakuru,Wakulima (Nakuru),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,4536.083333
+Rift Valley,Nakuru,Wakulima (Nakuru),cereals and tubers,Sorghum (white),90 KG,2021,Wholesale,KES,4509
+Rift Valley,Nakuru,Wakulima (Nakuru),pulses and nuts,Beans (dolichos),90 KG,2021,Wholesale,KES,5695.833333
+Rift Valley,Nakuru,Wakulima (Nakuru),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,5909.333333
+Rift Valley,Nakuru,Wakulima (Nakuru),pulses and nuts,Beans (mung),90 KG,2021,Wholesale,KES,11473
+Rift Valley,Nakuru,Wakulima (Nakuru),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,6847.666667
+Rift Valley,Nakuru,Wakulima (Nakuru),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,5712.75
+Rift Valley,Nakuru,Wakulima (Nakuru),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,8100
+Rift Valley,Nakuru,Wakulima (Nakuru),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,3475.666667
+Rift Valley,Nakuru,Wakulima (Nakuru),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,650.0833333
+Rift Valley,Nakuru,Wakulima (Nakuru),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,790.3333333
+Rift Valley,Nakuru,Wakulima (Nakuru),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,3595.666667
+Rift Valley,Turkana,Ethiopia (Kakuma),cereals and tubers,Maize,KG,2021,Retail,KES,45.18333333
+Rift Valley,Turkana,Ethiopia (Kakuma),cereals and tubers,Maize flour,KG,2021,Retail,KES,67.42111111
+Rift Valley,Turkana,Ethiopia (Kakuma),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,48.91111111
+Rift Valley,Turkana,Ethiopia (Kakuma),cereals and tubers,Rice,KG,2021,Retail,KES,101.5833333
+Rift Valley,Turkana,Ethiopia (Kakuma),cereals and tubers,Sorghum,KG,2021,Retail,KES,46.60285714
+Rift Valley,Turkana,Ethiopia (Kakuma),cereals and tubers,Wheat flour,KG,2021,Retail,KES,72.03
+Rift Valley,Turkana,Ethiopia (Kakuma),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,473.7311111
+Rift Valley,Turkana,Ethiopia (Kakuma),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,406.25
+Rift Valley,Turkana,Ethiopia (Kakuma),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,477.9971429
+Rift Valley,Turkana,Ethiopia (Kakuma),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,73.65333333
+Rift Valley,Turkana,Ethiopia (Kakuma),miscellaneous food,Salt,200 G,2021,Retail,KES,11.98
+Rift Valley,Turkana,Ethiopia (Kakuma),miscellaneous food,Sugar,KG,2021,Retail,KES,117.06
+Rift Valley,Turkana,Ethiopia (Kakuma),oil and fats,Oil (vegetable),L,2021,Retail,KES,216.8522222
+Rift Valley,Turkana,Ethiopia (Kakuma),pulses and nuts,Beans (dry),KG,2021,Retail,KES,109.7444444
+Rift Valley,Turkana,Ethiopia (Kakuma),vegetables and fruits,Bananas,Unit,2021,Retail,KES,18.01571429
+Rift Valley,Turkana,Ethiopia (Kakuma),vegetables and fruits,Cabbage,Head,2021,Retail,KES,70
+Rift Valley,Turkana,Ethiopia (Kakuma),vegetables and fruits,Kale,Bunch,2021,Retail,KES,10
+Rift Valley,Turkana,HongKong (Kakuma),cereals and tubers,Maize,KG,2021,Retail,KES,43.65125
+Rift Valley,Turkana,HongKong (Kakuma),cereals and tubers,Maize flour,KG,2021,Retail,KES,67.254
+Rift Valley,Turkana,HongKong (Kakuma),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,50.649
+Rift Valley,Turkana,HongKong (Kakuma),cereals and tubers,Rice,KG,2021,Retail,KES,99.38428571
+Rift Valley,Turkana,HongKong (Kakuma),cereals and tubers,Sorghum,KG,2021,Retail,KES,43.525
+Rift Valley,Turkana,HongKong (Kakuma),cereals and tubers,Wheat flour,KG,2021,Retail,KES,72.071
+Rift Valley,Turkana,HongKong (Kakuma),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,477.6742857
+Rift Valley,Turkana,HongKong (Kakuma),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,458.3333333
+Rift Valley,Turkana,HongKong (Kakuma),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,497.1922222
+Rift Valley,Turkana,HongKong (Kakuma),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,76.838
+Rift Valley,Turkana,HongKong (Kakuma),miscellaneous food,Salt,200 G,2021,Retail,KES,11.008
+Rift Valley,Turkana,HongKong (Kakuma),miscellaneous food,Sugar,KG,2021,Retail,KES,116.754
+Rift Valley,Turkana,HongKong (Kakuma),oil and fats,Oil (vegetable),L,2021,Retail,KES,225.951
+Rift Valley,Turkana,HongKong (Kakuma),pulses and nuts,Beans (dry),KG,2021,Retail,KES,107.714
+Rift Valley,Turkana,HongKong (Kakuma),vegetables and fruits,Bananas,Unit,2021,Retail,KES,19.75
+Rift Valley,Turkana,HongKong (Kakuma),vegetables and fruits,Kale,Bunch,2021,Retail,KES,10
+Rift Valley,Turkana,Kakuma 2,cereals and tubers,Maize,KG,2021,Retail,KES,43.16571429
+Rift Valley,Turkana,Kakuma 2,cereals and tubers,Maize flour,KG,2021,Retail,KES,65.68818182
+Rift Valley,Turkana,Kakuma 2,cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,46.67363636
+Rift Valley,Turkana,Kakuma 2,cereals and tubers,Rice,KG,2021,Retail,KES,106.72
+Rift Valley,Turkana,Kakuma 2,cereals and tubers,Sorghum,KG,2021,Retail,KES,38.33333333
+Rift Valley,Turkana,Kakuma 2,cereals and tubers,Wheat flour,KG,2021,Retail,KES,71.48272727
+Rift Valley,Turkana,Kakuma 2,"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,453.1166667
+Rift Valley,Turkana,Kakuma 2,"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,410.5
+Rift Valley,Turkana,Kakuma 2,"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,450.629
+Rift Valley,Turkana,Kakuma 2,milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,71.645
+Rift Valley,Turkana,Kakuma 2,miscellaneous food,Salt,200 G,2021,Retail,KES,10.63818182
+Rift Valley,Turkana,Kakuma 2,miscellaneous food,Sugar,KG,2021,Retail,KES,116.6827273
+Rift Valley,Turkana,Kakuma 2,oil and fats,Cooking fat,KG,2021,Retail,KES,220
+Rift Valley,Turkana,Kakuma 2,oil and fats,Oil (vegetable),L,2021,Retail,KES,216.2745455
+Rift Valley,Turkana,Kakuma 2,pulses and nuts,Beans (dry),KG,2021,Retail,KES,109.7172727
+Rift Valley,Turkana,Kakuma 2,vegetables and fruits,Bananas,Unit,2021,Retail,KES,19.27
+Rift Valley,Turkana,Kakuma 2,vegetables and fruits,Cabbage,Head,2021,Retail,KES,70
+Rift Valley,Turkana,Kakuma 3,cereals and tubers,Maize,KG,2021,Retail,KES,43.81666667
+Rift Valley,Turkana,Kakuma 3,cereals and tubers,Maize flour,KG,2021,Retail,KES,65.40363636
+Rift Valley,Turkana,Kakuma 3,cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,46.14272727
+Rift Valley,Turkana,Kakuma 3,cereals and tubers,Rice,KG,2021,Retail,KES,107.6425
+Rift Valley,Turkana,Kakuma 3,cereals and tubers,Sorghum,KG,2021,Retail,KES,41.62666667
+Rift Valley,Turkana,Kakuma 3,cereals and tubers,Wheat flour,KG,2021,Retail,KES,71.12909091
+Rift Valley,Turkana,Kakuma 3,"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,459.38875
+Rift Valley,Turkana,Kakuma 3,"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,415.5
+Rift Valley,Turkana,Kakuma 3,"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,474.225
+Rift Valley,Turkana,Kakuma 3,milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,69.39727273
+Rift Valley,Turkana,Kakuma 3,milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,100
+Rift Valley,Turkana,Kakuma 3,miscellaneous food,Salt,200 G,2021,Retail,KES,10.44818182
+Rift Valley,Turkana,Kakuma 3,miscellaneous food,Sugar,KG,2021,Retail,KES,117.9
+Rift Valley,Turkana,Kakuma 3,oil and fats,Cooking fat,KG,2021,Retail,KES,200
+Rift Valley,Turkana,Kakuma 3,oil and fats,Oil (vegetable),L,2021,Retail,KES,211.8818182
+Rift Valley,Turkana,Kakuma 3,pulses and nuts,Beans (dry),KG,2021,Retail,KES,107.3190909
+Rift Valley,Turkana,Kakuma 3,vegetables and fruits,Bananas,Unit,2021,Retail,KES,19.34
+Rift Valley,Turkana,Kakuma 3,vegetables and fruits,Cabbage,Head,2021,Retail,KES,73.33
+Rift Valley,Turkana,Kakuma 3,vegetables and fruits,Kale,Bunch,2021,Retail,KES,10
+Rift Valley,Turkana,Kakuma 4,cereals and tubers,Maize,KG,2021,Retail,KES,45.01428571
+Rift Valley,Turkana,Kakuma 4,cereals and tubers,Maize flour,KG,2021,Retail,KES,68.38181818
+Rift Valley,Turkana,Kakuma 4,cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,48.43909091
+Rift Valley,Turkana,Kakuma 4,cereals and tubers,Rice,KG,2021,Retail,KES,98.25777778
+Rift Valley,Turkana,Kakuma 4,cereals and tubers,Sorghum,KG,2021,Retail,KES,38.2675
+Rift Valley,Turkana,Kakuma 4,cereals and tubers,Wheat flour,KG,2021,Retail,KES,73.50272727
+Rift Valley,Turkana,Kakuma 4,"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,479.8745455
+Rift Valley,Turkana,Kakuma 4,"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,400
+Rift Valley,Turkana,Kakuma 4,"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,488.816
+Rift Valley,Turkana,Kakuma 4,milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,76.52363636
+Rift Valley,Turkana,Kakuma 4,milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,50
+Rift Valley,Turkana,Kakuma 4,miscellaneous food,Salt,200 G,2021,Retail,KES,12.23272727
+Rift Valley,Turkana,Kakuma 4,miscellaneous food,Sugar,KG,2021,Retail,KES,118.4909091
+Rift Valley,Turkana,Kakuma 4,oil and fats,Oil (vegetable),L,2021,Retail,KES,225.4954545
+Rift Valley,Turkana,Kakuma 4,pulses and nuts,Beans (dry),KG,2021,Retail,KES,110.0636364
+Rift Valley,Turkana,Kakuma 4,vegetables and fruits,Bananas,Unit,2021,Retail,KES,18.88888889
+Rift Valley,Turkana,Kakuma 4,vegetables and fruits,Cabbage,Head,2021,Retail,KES,65
+Rift Valley,Turkana,Kalobeyei (Village 1),cereals and tubers,Maize,KG,2021,Retail,KES,42.792
+Rift Valley,Turkana,Kalobeyei (Village 1),cereals and tubers,Maize flour,KG,2021,Retail,KES,66.05545455
+Rift Valley,Turkana,Kalobeyei (Village 1),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,49.50454545
+Rift Valley,Turkana,Kalobeyei (Village 1),cereals and tubers,Rice,KG,2021,Retail,KES,97.61
+Rift Valley,Turkana,Kalobeyei (Village 1),cereals and tubers,Sorghum,KG,2021,Retail,KES,45
+Rift Valley,Turkana,Kalobeyei (Village 1),cereals and tubers,Wheat flour,KG,2021,Retail,KES,72.05363636
+Rift Valley,Turkana,Kalobeyei (Village 1),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,479.174
+Rift Valley,Turkana,Kalobeyei (Village 1),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,515.625
+Rift Valley,Turkana,Kalobeyei (Village 1),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,70.33363636
+Rift Valley,Turkana,Kalobeyei (Village 1),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,150
+Rift Valley,Turkana,Kalobeyei (Village 1),milk and dairy,"Milk (cow, fresh)",L,2021,Retail,KES,150
+Rift Valley,Turkana,Kalobeyei (Village 1),miscellaneous food,Salt,200 G,2021,Retail,KES,11.08545455
+Rift Valley,Turkana,Kalobeyei (Village 1),miscellaneous food,Sugar,KG,2021,Retail,KES,115.0536364
+Rift Valley,Turkana,Kalobeyei (Village 1),oil and fats,Oil (vegetable),L,2021,Retail,KES,223.8736364
+Rift Valley,Turkana,Kalobeyei (Village 1),pulses and nuts,Beans (dry),KG,2021,Retail,KES,105.3245455
+Rift Valley,Turkana,Kalobeyei (Village 1),vegetables and fruits,Bananas,Unit,2021,Retail,KES,19.78285714
+Rift Valley,Turkana,Kalobeyei (Village 1),vegetables and fruits,Cabbage,Head,2021,Retail,KES,65
+Rift Valley,Turkana,Kalobeyei (Village 2),cereals and tubers,Maize,KG,2021,Retail,KES,42.52
+Rift Valley,Turkana,Kalobeyei (Village 2),cereals and tubers,Maize flour,KG,2021,Retail,KES,65.77272727
+Rift Valley,Turkana,Kalobeyei (Village 2),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,48.77090909
+Rift Valley,Turkana,Kalobeyei (Village 2),cereals and tubers,Rice,KG,2021,Retail,KES,97.52777778
+Rift Valley,Turkana,Kalobeyei (Village 2),cereals and tubers,Sorghum,KG,2021,Retail,KES,41.875
+Rift Valley,Turkana,Kalobeyei (Village 2),cereals and tubers,Wheat flour,KG,2021,Retail,KES,71.27818182
+Rift Valley,Turkana,Kalobeyei (Village 2),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,500
+Rift Valley,Turkana,Kalobeyei (Village 2),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,441.8333333
+Rift Valley,Turkana,Kalobeyei (Village 2),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,498.06
+Rift Valley,Turkana,Kalobeyei (Village 2),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,71.39444444
+Rift Valley,Turkana,Kalobeyei (Village 2),miscellaneous food,Salt,200 G,2021,Retail,KES,11.38727273
+Rift Valley,Turkana,Kalobeyei (Village 2),miscellaneous food,Sugar,KG,2021,Retail,KES,116.2590909
+Rift Valley,Turkana,Kalobeyei (Village 2),oil and fats,Oil (vegetable),L,2021,Retail,KES,215.5145455
+Rift Valley,Turkana,Kalobeyei (Village 2),pulses and nuts,Beans (dry),KG,2021,Retail,KES,110.5218182
+Rift Valley,Turkana,Kalobeyei (Village 2),vegetables and fruits,Bananas,Unit,2021,Retail,KES,19.042
+Rift Valley,Turkana,Kalobeyei (Village 2),vegetables and fruits,Cabbage,Head,2021,Retail,KES,75
+Rift Valley,Turkana,Kalobeyei (Village 2),vegetables and fruits,Kale,Bunch,2021,Retail,KES,20
+Rift Valley,Turkana,Kalobeyei (Village 3),cereals and tubers,Maize,KG,2021,Retail,KES,43.73125
+Rift Valley,Turkana,Kalobeyei (Village 3),cereals and tubers,Maize flour,KG,2021,Retail,KES,63.056
+Rift Valley,Turkana,Kalobeyei (Village 3),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,49.08111111
+Rift Valley,Turkana,Kalobeyei (Village 3),cereals and tubers,Rice,KG,2021,Retail,KES,99.25142857
+Rift Valley,Turkana,Kalobeyei (Village 3),cereals and tubers,Sorghum,KG,2021,Retail,KES,52.5
+Rift Valley,Turkana,Kalobeyei (Village 3),cereals and tubers,Wheat flour,KG,2021,Retail,KES,69.775
+Rift Valley,Turkana,Kalobeyei (Village 3),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,451.4285714
+Rift Valley,Turkana,Kalobeyei (Village 3),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,440
+Rift Valley,Turkana,Kalobeyei (Village 3),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,490
+Rift Valley,Turkana,Kalobeyei (Village 3),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,69.99888889
+Rift Valley,Turkana,Kalobeyei (Village 3),miscellaneous food,Salt,200 G,2021,Retail,KES,11.423
+Rift Valley,Turkana,Kalobeyei (Village 3),miscellaneous food,Sugar,KG,2021,Retail,KES,119.75
+Rift Valley,Turkana,Kalobeyei (Village 3),oil and fats,Oil (vegetable),L,2021,Retail,KES,211.707
+Rift Valley,Turkana,Kalobeyei (Village 3),pulses and nuts,Beans (dry),KG,2021,Retail,KES,111.7
+Rift Valley,Turkana,Kalobeyei (Village 3),vegetables and fruits,Bananas,Unit,2021,Retail,KES,16.14
+Rift Valley,Turkana,Kalobeyei (Village 3),vegetables and fruits,Cabbage,Head,2021,Retail,KES,80
+Rift Valley,Turkana,Kalobeyei (Village 3),vegetables and fruits,Kale,Bunch,2021,Retail,KES,20
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2006,Retail,KES,27.66666667
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2007,Retail,KES,29.16666667
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2008,Retail,KES,43.16666667
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2009,Retail,KES,46.76666667
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2010,Retail,KES,44.96833333
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2011,Retail,KES,59.8075
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2012,Retail,KES,65.25666667
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2013,Retail,KES,78.44
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2014,Retail,KES,76.76636364
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2015,Retail,KES,76.41666667
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2016,Retail,KES,75.45454545
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2017,Retail,KES,88.19166667
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2018,Retail,KES,74.31666667
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2019,Retail,KES,64.825
+Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,2020,Retail,KES,66.90909091
+Rift Valley,Turkana,Lodwar town,cereals and tubers,Maize,KG,2021,Retail,KES,46.5
+Rift Valley,Turkana,Lodwar town,cereals and tubers,Maize flour,KG,2021,Retail,KES,70.23777778
+Rift Valley,Turkana,Lodwar town,cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,92.19444444
+Rift Valley,Turkana,Lodwar town,cereals and tubers,Rice,KG,2021,Retail,KES,102.5966667
+Rift Valley,Turkana,Lodwar town,cereals and tubers,Wheat flour,KG,2021,Retail,KES,79.28888889
+Rift Valley,Turkana,Lodwar town,milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,61.17444444
+Rift Valley,Turkana,Lodwar town,miscellaneous food,Salt,200 G,2021,Retail,KES,11.34888889
+Rift Valley,Turkana,Lodwar town,miscellaneous food,Sugar,KG,2021,Retail,KES,113.6255556
+Rift Valley,Turkana,Lodwar town,oil and fats,Cooking fat,KG,2021,Retail,KES,214.2857143
+Rift Valley,Turkana,Lodwar town,oil and fats,Oil (vegetable),L,2021,Retail,KES,241.6266667
+Rift Valley,Turkana,Lodwar town,pulses and nuts,Beans (dry),KG,2021,Retail,KES,119.2433333
+Rift Valley,Turkana,Lodwar town,vegetables and fruits,Bananas,Unit,2021,Retail,KES,19.62444444
+Rift Valley,Turkana,Lodwar town,vegetables and fruits,Cabbage,Head,2021,Retail,KES,100
+Rift Valley,Turkana,Lodwar town,vegetables and fruits,Kale,Bunch,2021,Retail,KES,20
+Rift Valley,Turkana,Mogadishu (Kakuma),cereals and tubers,Maize,KG,2021,Retail,KES,46.124
+Rift Valley,Turkana,Mogadishu (Kakuma),cereals and tubers,Maize flour,KG,2021,Retail,KES,68.73625
+Rift Valley,Turkana,Mogadishu (Kakuma),cereals and tubers,Potatoes (Irish),KG,2021,Retail,KES,48.84875
+Rift Valley,Turkana,Mogadishu (Kakuma),cereals and tubers,Rice,KG,2021,Retail,KES,107.3642857
+Rift Valley,Turkana,Mogadishu (Kakuma),cereals and tubers,Sorghum,KG,2021,Retail,KES,43
+Rift Valley,Turkana,Mogadishu (Kakuma),cereals and tubers,Wheat flour,KG,2021,Retail,KES,71.43
+Rift Valley,Turkana,Mogadishu (Kakuma),"meat, fish and eggs",Meat (beef),KG,2021,Retail,KES,452.7783333
+Rift Valley,Turkana,Mogadishu (Kakuma),"meat, fish and eggs",Meat (camel),KG,2021,Retail,KES,408.3333333
+Rift Valley,Turkana,Mogadishu (Kakuma),"meat, fish and eggs",Meat (goat),KG,2021,Retail,KES,443
+Rift Valley,Turkana,Mogadishu (Kakuma),milk and dairy,Milk (UHT),500 ML,2021,Retail,KES,74.1175
+Rift Valley,Turkana,Mogadishu (Kakuma),milk and dairy,"Milk (camel, fresh)",L,2021,Retail,KES,170
+Rift Valley,Turkana,Mogadishu (Kakuma),miscellaneous food,Salt,200 G,2021,Retail,KES,12.6
+Rift Valley,Turkana,Mogadishu (Kakuma),miscellaneous food,Sugar,KG,2021,Retail,KES,118.44625
+Rift Valley,Turkana,Mogadishu (Kakuma),oil and fats,Cooking fat,KG,2021,Retail,KES,195
+Rift Valley,Turkana,Mogadishu (Kakuma),oil and fats,Oil (vegetable),L,2021,Retail,KES,214.1125
+Rift Valley,Turkana,Mogadishu (Kakuma),pulses and nuts,Beans (dry),KG,2021,Retail,KES,110.09375
+Rift Valley,Turkana,Mogadishu (Kakuma),vegetables and fruits,Bananas,Unit,2021,Retail,KES,19.58375
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2006,Wholesale,KES,13.9875
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2007,Wholesale,KES,10.64666667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2008,Wholesale,KES,17.51
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2009,Wholesale,KES,23.56666667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2010,Wholesale,KES,22.55666667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2011,Wholesale,KES,17.97666667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2012,Wholesale,KES,31.08
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2013,Wholesale,KES,28.26
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2014,Wholesale,KES,30.36333333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2015,Wholesale,KES,24.42666667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2016,Wholesale,KES,28.0875
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2017,Wholesale,KES,36.31
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2018,Wholesale,KES,28.88333333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2019,Wholesale,KES,19.895
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2020,Wholesale,KES,31.2225
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,2021,Wholesale,KES,25.8625
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2006,Wholesale,KES,1265.53
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2007,Wholesale,KES,1139.138333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2008,Wholesale,KES,1644.916667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2009,Wholesale,KES,2490.083333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2010,Wholesale,KES,1590.166667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2011,Wholesale,KES,2774.083333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2012,Wholesale,KES,2796.545455
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2013,Wholesale,KES,2663.583333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2014,Wholesale,KES,2801.904167
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2015,Wholesale,KES,2386.708333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2016,Wholesale,KES,2521.45
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2017,Wholesale,KES,3527.458333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2018,Wholesale,KES,1984.4025
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2019,Wholesale,KES,2714.208333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,2020,Wholesale,KES,3000
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,3240.666667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2006,Wholesale,KES,627.4963636
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2007,Wholesale,KES,721.6516667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2008,Wholesale,KES,759.535
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2009,Wholesale,KES,1114.211667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2010,Wholesale,KES,820.6866667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2011,Wholesale,KES,1220.318333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2012,Wholesale,KES,1574.086364
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2013,Wholesale,KES,1280.595
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2014,Wholesale,KES,1529.775833
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2015,Wholesale,KES,1395.018333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2016,Wholesale,KES,1590.795455
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2017,Wholesale,KES,1963.020833
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2018,Wholesale,KES,1907.944167
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2019,Wholesale,KES,1718.958333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,2020,Wholesale,KES,1821.943333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,1358.89
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,5164.333333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2006,Wholesale,KES,1138.277273
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2007,Wholesale,KES,1369.986667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2008,Wholesale,KES,1641.088333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2009,Wholesale,KES,2963.083333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2010,Wholesale,KES,3226.833333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2011,Wholesale,KES,3374.083333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2012,Wholesale,KES,4162.454545
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2013,Wholesale,KES,4866.333333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2014,Wholesale,KES,5739.481667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2015,Wholesale,KES,5275.416667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2016,Wholesale,KES,5113.636364
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2017,Wholesale,KES,6784.218333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2018,Wholesale,KES,6066
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2019,Wholesale,KES,5419.166667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,2020,Wholesale,KES,5400
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,4629.5
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum (white),90 KG,2021,Wholesale,KES,5952
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2006,Wholesale,KES,43.095
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2007,Wholesale,KES,45.9175
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2008,Wholesale,KES,69.27555556
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2009,Wholesale,KES,68.319
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2010,Wholesale,KES,62.27083333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2011,Wholesale,KES,77.557
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2012,Wholesale,KES,72.1725
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2013,Wholesale,KES,72.59583333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2014,Wholesale,KES,77.505
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2015,Wholesale,KES,75.02
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2016,Wholesale,KES,64.9225
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2017,Wholesale,KES,84.17
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2018,Wholesale,KES,68.07916667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,2019,Wholesale,KES,69.79142857
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dolichos),90 KG,2021,Wholesale,KES,12216
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2006,Wholesale,KES,2767.75
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2007,Wholesale,KES,2711.75
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2008,Wholesale,KES,4092.083333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2009,Wholesale,KES,4762.25
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2010,Wholesale,KES,4079.583333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2011,Wholesale,KES,6559.583333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2012,Wholesale,KES,6894.454545
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2013,Wholesale,KES,7477.583333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2014,Wholesale,KES,7858.9375
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2015,Wholesale,KES,6887.805833
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2016,Wholesale,KES,7479
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2017,Wholesale,KES,9011.270833
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2018,Wholesale,KES,7654.843333
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2019,Wholesale,KES,8716.375
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,2020,Wholesale,KES,9150
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,6828.75
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,8887.5
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,9273.5
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,5300.4
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,4000
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,783.7066667
+Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,5108.333333
+Rift Valley,West Pokot,Lomut (West Pokot),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,9780
+Rift Valley,West Pokot,Lomut (West Pokot),cereals and tubers,"Potatoes (Irish, red)",50 KG,2021,Wholesale,KES,2000
+Rift Valley,West Pokot,Lomut (West Pokot),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,2000
+Rift Valley,West Pokot,Lomut (West Pokot),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,3780
+Rift Valley,West Pokot,Lomut (West Pokot),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,7511.666667
+Rift Valley,West Pokot,Lomut (West Pokot),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,10800
+Rift Valley,West Pokot,Lomut (West Pokot),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,4214
+Rift Valley,West Pokot,Lomut (West Pokot),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,1815.333333
+Rift Valley,West Pokot,Lomut (West Pokot),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,650
+Rift Valley,West Pokot,Lomut (West Pokot),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,2938.8
+Rift Valley,West Pokot,Makutano (West Pokot),cereals and tubers,"Maize (white, dry)",90 KG,2021,Wholesale,KES,2774
+Rift Valley,West Pokot,Makutano (West Pokot),cereals and tubers,Millet (finger),90 KG,2021,Wholesale,KES,8346.416667
+Rift Valley,West Pokot,Makutano (West Pokot),cereals and tubers,"Potatoes (Irish, white)",50 KG,2021,Wholesale,KES,773.5
+Rift Valley,West Pokot,Makutano (West Pokot),cereals and tubers,Rice (aromatic),50 KG,2021,Wholesale,KES,5000
+Rift Valley,West Pokot,Makutano (West Pokot),cereals and tubers,Sorghum (red),90 KG,2021,Wholesale,KES,4749
+Rift Valley,West Pokot,Makutano (West Pokot),pulses and nuts,Beans (dolichos),90 KG,2021,Wholesale,KES,8825
+Rift Valley,West Pokot,Makutano (West Pokot),pulses and nuts,Beans (kidney),90 KG,2021,Wholesale,KES,6615
+Rift Valley,West Pokot,Makutano (West Pokot),pulses and nuts,Beans (rosecoco),90 KG,2021,Wholesale,KES,6498
+Rift Valley,West Pokot,Makutano (West Pokot),pulses and nuts,Beans (yellow),90 KG,2021,Wholesale,KES,9805
+Rift Valley,West Pokot,Makutano (West Pokot),pulses and nuts,Cowpeas,90 KG,2021,Wholesale,KES,10845
+Rift Valley,West Pokot,Makutano (West Pokot),vegetables and fruits,Cabbage,126 KG,2021,Wholesale,KES,2422.483333
+Rift Valley,West Pokot,Makutano (West Pokot),vegetables and fruits,Kale,50 KG,2021,Wholesale,KES,773.0833333
+Rift Valley,West Pokot,Makutano (West Pokot),vegetables and fruits,Onions (dry),13 KG,2021,Wholesale,KES,861.3333333
+Rift Valley,West Pokot,Makutano (West Pokot),vegetables and fruits,Tomatoes,64 KG,2021,Wholesale,KES,3809.866667

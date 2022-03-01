@@ -1,0 +1,606 @@
+,year,CPI,GDP_growth_annual%,annual_rainfall,Value,Regions,Sub_region,market,category,commodity,unit,pricetype,currency,price
+0,2006,39.30523033672076,0.06472494299,769.28,7.0,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,19.92
+1,2006,39.30523033672076,0.06472494299,769.28,7.0,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1411.1325
+2,2006,39.30523033672076,0.06472494299,769.28,7.0,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,34.4375
+3,2006,39.30523033672076,0.06472494299,769.28,7.0,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,3202.8291666666664
+4,2006,39.30523033672076,0.06472494299,769.28,7.0,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,19.666666666666668
+5,2006,39.30523033672076,0.06472494299,769.28,7.0,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1520.825
+6,2006,39.30523033672076,0.06472494299,769.28,7.0,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,1950.0
+7,2006,39.30523033672076,0.06472494299,769.28,7.0,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,46.0
+8,2006,39.30523033672076,0.06472494299,769.28,7.0,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,21.25
+9,2006,39.30523033672076,0.06472494299,769.28,7.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,26.166666666666668
+10,2006,39.30523033672076,0.06472494299,769.28,7.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,16.105833333333333
+11,2006,39.30523033672076,0.06472494299,769.28,7.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1455.745
+12,2006,39.30523033672076,0.06472494299,769.28,7.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,894.2991666666667
+13,2006,39.30523033672076,0.06472494299,769.28,7.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,2012.0783333333331
+14,2006,39.30523033672076,0.06472494299,769.28,7.0,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,22.5
+15,2006,39.30523033672076,0.06472494299,769.28,7.0,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,120.25
+16,2006,39.30523033672076,0.06472494299,769.28,7.0,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,38.255
+17,2006,39.30523033672076,0.06472494299,769.28,7.0,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,3365.25
+18,2006,39.30523033672076,0.06472494299,769.28,7.0,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,25.916666666666668
+19,2006,39.30523033672076,0.06472494299,769.28,7.0,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,15.25
+20,2006,39.30523033672076,0.06472494299,769.28,7.0,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1447.74
+21,2006,39.30523033672076,0.06472494299,769.28,7.0,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1098.4866666666667
+22,2006,39.30523033672076,0.06472494299,769.28,7.0,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,1503.888888888889
+23,2006,39.30523033672076,0.06472494299,769.28,7.0,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,38.86833333333333
+24,2006,39.30523033672076,0.06472494299,769.28,7.0,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,3615.1666666666665
+25,2006,39.30523033672076,0.06472494299,769.28,7.0,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,27.666666666666668
+26,2006,39.30523033672076,0.06472494299,769.28,7.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,13.9875
+27,2006,39.30523033672076,0.06472494299,769.28,7.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,1265.53
+28,2006,39.30523033672076,0.06472494299,769.28,7.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,627.4963636363636
+29,2006,39.30523033672076,0.06472494299,769.28,7.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,1138.2772727272727
+30,2006,39.30523033672076,0.06472494299,769.28,7.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,43.095
+31,2006,39.30523033672076,0.06472494299,769.28,7.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,2767.75
+32,2007,40.98377411254902,0.06850729771,692.64,9.0,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,12.983333333333334
+33,2007,40.98377411254902,0.06850729771,692.64,9.0,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1154.9933333333333
+34,2007,40.98377411254902,0.06850729771,692.64,9.0,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,35.70083333333333
+35,2007,40.98377411254902,0.06850729771,692.64,9.0,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,3247.9825
+36,2007,40.98377411254902,0.06850729771,692.64,9.0,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,10.583333333333334
+37,2007,40.98377411254902,0.06850729771,692.64,9.0,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1195.55
+38,2007,40.98377411254902,0.06850729771,692.64,9.0,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,1505.0
+39,2007,40.98377411254902,0.06850729771,692.64,9.0,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,34.916666666666664
+40,2007,40.98377411254902,0.06850729771,692.64,9.0,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,16.0
+41,2007,40.98377411254902,0.06850729771,692.64,9.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,28.333333333333332
+42,2007,40.98377411254902,0.06850729771,692.64,9.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,13.525833333333333
+43,2007,40.98377411254902,0.06850729771,692.64,9.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1222.095
+44,2007,40.98377411254902,0.06850729771,692.64,9.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1095.9925
+45,2007,40.98377411254902,0.06850729771,692.64,9.0,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,1718.0283333333334
+46,2007,40.98377411254902,0.06850729771,692.64,9.0,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,21.083333333333332
+47,2007,40.98377411254902,0.06850729771,692.64,9.0,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,134.58333333333334
+48,2007,40.98377411254902,0.06850729771,692.64,9.0,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,34.26083333333333
+49,2007,40.98377411254902,0.06850729771,692.64,9.0,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,3205.1666666666665
+50,2007,40.98377411254902,0.06850729771,692.64,9.0,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,27.083333333333332
+51,2007,40.98377411254902,0.06850729771,692.64,9.0,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1313.5758333333333
+52,2007,40.98377411254902,0.06850729771,692.64,9.0,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,904.9016666666666
+53,2007,40.98377411254902,0.06850729771,692.64,9.0,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,1592.5666666666666
+54,2007,40.98377411254902,0.06850729771,692.64,9.0,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,40.79833333333333
+55,2007,40.98377411254902,0.06850729771,692.64,9.0,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,3547.6666666666665
+56,2007,40.98377411254902,0.06850729771,692.64,9.0,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,29.166666666666668
+57,2007,40.98377411254902,0.06850729771,692.64,9.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,10.646666666666667
+58,2007,40.98377411254902,0.06850729771,692.64,9.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,1139.1383333333333
+59,2007,40.98377411254902,0.06850729771,692.64,9.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,721.6516666666666
+60,2007,40.98377411254902,0.06850729771,692.64,9.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,1369.9866666666667
+61,2007,40.98377411254902,0.06850729771,692.64,9.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,45.9175
+62,2007,40.98377411254902,0.06850729771,692.64,9.0,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,2711.75
+63,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,20.072857142857142
+64,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1940.0
+65,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,50.995000000000005
+66,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4777.781666666667
+67,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,23.916666666666668
+68,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1608.9433333333334
+69,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,1816.3891666666666
+70,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,62.916666666666664
+71,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,29.583333333333332
+72,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,33.333333333333336
+73,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,20.74083333333333
+74,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1941.8333333333333
+75,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1102.2983333333334
+76,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,2479.9683333333332
+77,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,24.916666666666668
+78,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,177.0
+79,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,51.36166666666667
+80,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4788.916666666667
+81,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,33.083333333333336
+82,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,23.52
+83,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2116.0
+84,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1264.7549999999999
+85,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,2208.7336363636364
+86,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,55.32222222222222
+87,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5624.909090909091
+88,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,20.955714285714286
+89,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,50.86833333333333
+90,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,43.166666666666664
+91,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,17.51
+92,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,1644.9166666666667
+93,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,759.535
+94,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,1641.0883333333334
+95,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,69.27555555555556
+96,2008,47.17800748458984,0.0023228274600000003,661.27,8.7,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4092.0833333333335
+97,2009,52.1493357821961,0.03306939815,655.41,7.2,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,23.585
+98,2009,52.1493357821961,0.03306939815,655.41,7.2,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2344.5875
+99,2009,52.1493357821961,0.03306939815,655.41,7.2,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,51.530833333333334
+100,2009,52.1493357821961,0.03306939815,655.41,7.2,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4753.833333333333
+101,2009,52.1493357821961,0.03306939815,655.41,7.2,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,32.5
+102,2009,52.1493357821961,0.03306939815,655.41,7.2,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1890.5258333333334
+103,2009,52.1493357821961,0.03306939815,655.41,7.2,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3218.7225
+104,2009,52.1493357821961,0.03306939815,655.41,7.2,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,65.83333333333333
+105,2009,52.1493357821961,0.03306939815,655.41,7.2,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,43.75
+106,2009,52.1493357821961,0.03306939815,655.41,7.2,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,33.916666666666664
+107,2009,52.1493357821961,0.03306939815,655.41,7.2,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,28.133333333333336
+108,2009,52.1493357821961,0.03306939815,655.41,7.2,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2634.0833333333335
+109,2009,52.1493357821961,0.03306939815,655.41,7.2,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1629.6133333333335
+110,2009,52.1493357821961,0.03306939815,655.41,7.2,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,2822.5833333333335
+111,2009,52.1493357821961,0.03306939815,655.41,7.2,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,28.5
+112,2009,52.1493357821961,0.03306939815,655.41,7.2,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,135.83333333333334
+113,2009,52.1493357821961,0.03306939815,655.41,7.2,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,51.14083333333334
+114,2009,52.1493357821961,0.03306939815,655.41,7.2,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4813.25
+115,2009,52.1493357821961,0.03306939815,655.41,7.2,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,39.583333333333336
+116,2009,52.1493357821961,0.03306939815,655.41,7.2,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,28.826666666666668
+117,2009,52.1493357821961,0.03306939815,655.41,7.2,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2584.3333333333335
+118,2009,52.1493357821961,0.03306939815,655.41,7.2,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1329.855
+119,2009,52.1493357821961,0.03306939815,655.41,7.2,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,2458.5
+120,2009,52.1493357821961,0.03306939815,655.41,7.2,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,58.32750000000001
+121,2009,52.1493357821961,0.03306939815,655.41,7.2,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5429.916666666667
+122,2009,52.1493357821961,0.03306939815,655.41,7.2,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,26.50714285714286
+123,2009,52.1493357821961,0.03306939815,655.41,7.2,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,50.6675
+124,2009,52.1493357821961,0.03306939815,655.41,7.2,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,46.76666666666667
+125,2009,52.1493357821961,0.03306939815,655.41,7.2,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,23.566666666666666
+126,2009,52.1493357821961,0.03306939815,655.41,7.2,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,2490.0833333333335
+127,2009,52.1493357821961,0.03306939815,655.41,7.2,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1114.2116666666668
+128,2009,52.1493357821961,0.03306939815,655.41,7.2,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,2963.0833333333335
+129,2009,52.1493357821961,0.03306939815,655.41,7.2,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,68.319
+130,2009,52.1493357821961,0.03306939815,655.41,7.2,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4762.25
+131,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,17.1025
+132,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1653.6391666666666
+133,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,47.86000000000001
+134,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4358.956666666666
+135,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,15.583333333333334
+136,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1724.1141666666665
+137,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,2169.4166666666665
+138,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,51.25
+139,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,34.333333333333336
+140,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,35.5
+141,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,19.168333333333333
+142,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1929.25
+143,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1449.6708333333333
+144,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,2906.8333333333335
+145,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,27.75
+146,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,155.83333333333334
+147,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,52.48166666666666
+148,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4581.583333333333
+149,2010,54.27903274507349,0.08058473602999999,650.73,2.5,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,40.666666666666664
+150,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,19.1
+151,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,1922.75
+152,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1512.4033333333334
+153,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,2478.0
+154,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,51.50833333333333
+155,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4665.0
+156,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,16.852857142857143
+157,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,45.93
+158,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,44.968333333333334
+159,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,22.55666666666667
+160,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,1590.1666666666667
+161,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,820.6866666666666
+162,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,3226.8333333333335
+163,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,62.270833333333336
+164,2010,54.27903274507349,0.08058473602999999,650.73,2.5,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,4079.5833333333335
+165,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,31.3325
+166,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2951.125
+167,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,59.6225
+168,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5343.5
+169,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,35.56666666666667
+170,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2203.6974999999998
+171,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3218.181818181818
+172,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,78.85583333333334
+173,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,46.50888888888889
+174,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,39.833333333333336
+175,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,32.39416666666667
+176,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3032.9166666666665
+177,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1845.5033333333333
+178,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3344.6666666666665
+179,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,30.5
+180,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,218.58333333333334
+181,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,65.48083333333334
+182,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5821.583333333333
+183,2011,61.890024516837514,0.051211061200000005,626.92,2.9,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,58.833333333333336
+184,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,44.01
+185,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3322.75
+186,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2073.28
+187,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3416.8333333333335
+188,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,71.9975
+189,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6679.0
+190,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,30.057
+191,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,57.32750000000001
+192,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,59.807500000000005
+193,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,17.97666666666667
+194,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,2774.0833333333335
+195,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1220.3183333333334
+196,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,3374.0833333333335
+197,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,77.55699999999999
+198,2011,61.890024516837514,0.051211061200000005,626.92,2.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6559.583333333333
+199,2012,67.6942336060017,0.04568679614,783.07,4.9,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,32.69
+200,2012,67.6942336060017,0.04568679614,783.07,4.9,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3080.0
+201,2012,67.6942336060017,0.04568679614,783.07,4.9,Coast,Mombasa,Mombasa,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1845.92
+202,2012,67.6942336060017,0.04568679614,783.07,4.9,Coast,Mombasa,Mombasa,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3762.0
+203,2012,67.6942336060017,0.04568679614,783.07,4.9,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,57.64
+204,2012,67.6942336060017,0.04568679614,783.07,4.9,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5613.909090909091
+205,2012,67.6942336060017,0.04568679614,783.07,4.9,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,39.583333333333336
+206,2012,67.6942336060017,0.04568679614,783.07,4.9,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2478.930909090909
+207,2012,67.6942336060017,0.04568679614,783.07,4.9,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3686.3636363636365
+208,2012,67.6942336060017,0.04568679614,783.07,4.9,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,78.54333333333334
+209,2012,67.6942336060017,0.04568679614,783.07,4.9,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,49.91
+210,2012,67.6942336060017,0.04568679614,783.07,4.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,42.666666666666664
+211,2012,67.6942336060017,0.04568679614,783.07,4.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,34.61083333333333
+212,2012,67.6942336060017,0.04568679614,783.07,4.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3155.75
+213,2012,67.6942336060017,0.04568679614,783.07,4.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2176.809090909091
+214,2012,67.6942336060017,0.04568679614,783.07,4.9,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3587.090909090909
+215,2012,67.6942336060017,0.04568679614,783.07,4.9,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,37.166666666666664
+216,2012,67.6942336060017,0.04568679614,783.07,4.9,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,238.0
+217,2012,67.6942336060017,0.04568679614,783.07,4.9,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,59.26833333333334
+218,2012,67.6942336060017,0.04568679614,783.07,4.9,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5549.416666666667
+219,2012,67.6942336060017,0.04568679614,783.07,4.9,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,78.65916666666666
+220,2012,67.6942336060017,0.04568679614,783.07,4.9,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,35.209999999999994
+221,2012,67.6942336060017,0.04568679614,783.07,4.9,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3623.5833333333335
+222,2012,67.6942336060017,0.04568679614,783.07,4.9,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2670.0436363636363
+223,2012,67.6942336060017,0.04568679614,783.07,4.9,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3543.9166666666665
+224,2012,67.6942336060017,0.04568679614,783.07,4.9,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,64.0025
+225,2012,67.6942336060017,0.04568679614,783.07,4.9,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6635.666666666667
+226,2012,67.6942336060017,0.04568679614,783.07,4.9,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,31.609999999999996
+227,2012,67.6942336060017,0.04568679614,783.07,4.9,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,61.0425
+228,2012,67.6942336060017,0.04568679614,783.07,4.9,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,65.25666666666667
+229,2012,67.6942336060017,0.04568679614,783.07,4.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,31.080000000000002
+230,2012,67.6942336060017,0.04568679614,783.07,4.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,2796.5454545454545
+231,2012,67.6942336060017,0.04568679614,783.07,4.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1574.0863636363638
+232,2012,67.6942336060017,0.04568679614,783.07,4.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,4162.454545454545
+233,2012,67.6942336060017,0.04568679614,783.07,4.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,72.1725
+234,2012,67.6942336060017,0.04568679614,783.07,4.9,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6894.454545454545
+235,2013,71.56464705994108,0.03797848393,740.69,5.4,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,33.3
+236,2013,71.56464705994108,0.03797848393,740.69,5.4,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2672.9166666666665
+237,2013,71.56464705994108,0.03797848393,740.69,5.4,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,65.56090909090909
+238,2013,71.56464705994108,0.03797848393,740.69,5.4,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5445.75
+239,2013,71.56464705994108,0.03797848393,740.69,5.4,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,34.166666666666664
+240,2013,71.56464705994108,0.03797848393,740.69,5.4,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2093.378181818182
+241,2013,71.56464705994108,0.03797848393,740.69,5.4,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3047.0
+242,2013,71.56464705994108,0.03797848393,740.69,5.4,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,72.3
+243,2013,71.56464705994108,0.03797848393,740.69,5.4,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,50.26727272727273
+244,2013,71.56464705994108,0.03797848393,740.69,5.4,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,46.166666666666664
+245,2013,71.56464705994108,0.03797848393,740.69,5.4,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,31.844166666666666
+246,2013,71.56464705994108,0.03797848393,740.69,5.4,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3024.6666666666665
+247,2013,71.56464705994108,0.03797848393,740.69,5.4,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1847.2616666666665
+248,2013,71.56464705994108,0.03797848393,740.69,5.4,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,4114.25
+249,2013,71.56464705994108,0.03797848393,740.69,5.4,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,43.416666666666664
+250,2013,71.56464705994108,0.03797848393,740.69,5.4,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,217.5
+251,2013,71.56464705994108,0.03797848393,740.69,5.4,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,64.93416666666667
+252,2013,71.56464705994108,0.03797848393,740.69,5.4,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5855.333333333333
+253,2013,71.56464705994108,0.03797848393,740.69,5.4,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,74.91666666666667
+254,2013,71.56464705994108,0.03797848393,740.69,5.4,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,34.52
+255,2013,71.56464705994108,0.03797848393,740.69,5.4,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3488.6666666666665
+256,2013,71.56464705994108,0.03797848393,740.69,5.4,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1944.3891666666668
+257,2013,71.56464705994108,0.03797848393,740.69,5.4,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3643.3333333333335
+258,2013,71.56464705994108,0.03797848393,740.69,5.4,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,80.9275
+259,2013,71.56464705994108,0.03797848393,740.69,5.4,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6748.75
+260,2013,71.56464705994108,0.03797848393,740.69,5.4,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,29.37875
+261,2013,71.56464705994108,0.03797848393,740.69,5.4,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,66.53999999999999
+262,2013,71.56464705994108,0.03797848393,740.69,5.4,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,78.44
+263,2013,71.56464705994108,0.03797848393,740.69,5.4,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,28.26
+264,2013,71.56464705994108,0.03797848393,740.69,5.4,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,2663.5833333333335
+265,2013,71.56464705994108,0.03797848393,740.69,5.4,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1280.595
+266,2013,71.56464705994108,0.03797848393,740.69,5.4,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,4866.333333333333
+267,2013,71.56464705994108,0.03797848393,740.69,5.4,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,72.59583333333333
+268,2013,71.56464705994108,0.03797848393,740.69,5.4,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,7477.583333333333
+269,2014,76.48697440474515,0.05020111002,608.32,5.6,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,31.6925
+270,2014,76.48697440474515,0.05020111002,608.32,5.6,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2782.045
+271,2014,76.48697440474515,0.05020111002,608.32,5.6,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,71.265
+272,2014,76.48697440474515,0.05020111002,608.32,5.6,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5582.491666666666
+273,2014,76.48697440474515,0.05020111002,608.32,5.6,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,35.166666666666664
+274,2014,76.48697440474515,0.05020111002,608.32,5.6,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2157.8033333333333
+275,2014,76.48697440474515,0.05020111002,608.32,5.6,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3800.0
+276,2014,76.48697440474515,0.05020111002,608.32,5.6,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,76.0625
+277,2014,76.48697440474515,0.05020111002,608.32,5.6,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,49.862500000000004
+278,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,47.68416666666667
+279,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,30.363333333333333
+280,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2949.2975
+281,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1766.5541666666668
+282,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3804.8325
+283,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,44.33833333333333
+284,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,Retail,KES,103.825
+285,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,Retail,KES,83.58500000000001
+286,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,Retail,KES,116.24000000000001
+287,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,208.52083333333334
+288,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,60.41416666666667
+289,2014,76.48697440474515,0.05020111002,608.32,5.6,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5924.913333333334
+290,2014,76.48697440474515,0.05020111002,608.32,5.6,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,59.666666666666664
+291,2014,76.48697440474515,0.05020111002,608.32,5.6,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,35.1
+292,2014,76.48697440474515,0.05020111002,608.32,5.6,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3441.6216666666664
+293,2014,76.48697440474515,0.05020111002,608.32,5.6,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1938.7716666666668
+294,2014,76.48697440474515,0.05020111002,608.32,5.6,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3530.5416666666665
+295,2014,76.48697440474515,0.05020111002,608.32,5.6,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,84.97500000000001
+296,2014,76.48697440474515,0.05020111002,608.32,5.6,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,7197.820833333334
+297,2014,76.48697440474515,0.05020111002,608.32,5.6,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,29.9725
+298,2014,76.48697440474515,0.05020111002,608.32,5.6,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,64.678
+299,2014,76.48697440474515,0.05020111002,608.32,5.6,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,76.76636363636364
+300,2014,76.48697440474515,0.05020111002,608.32,5.6,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,30.363333333333333
+301,2014,76.48697440474515,0.05020111002,608.32,5.6,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,2801.9041666666667
+302,2014,76.48697440474515,0.05020111002,608.32,5.6,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1529.7758333333334
+303,2014,76.48697440474515,0.05020111002,608.32,5.6,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,5739.481666666667
+304,2014,76.48697440474515,0.05020111002,608.32,5.6,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,77.505
+305,2014,76.48697440474515,0.05020111002,608.32,5.6,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,7858.9375
+306,2015,81.52137928976742,0.04967721128,778.31,5.8,Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,Retail,KES,36.175000000000004
+307,2015,81.52137928976742,0.04967721128,778.31,5.8,Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,Retail,KES,89.95833333333333
+308,2015,81.52137928976742,0.04967721128,778.31,5.8,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,28.11
+309,2015,81.52137928976742,0.04967721128,778.31,5.8,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2786.6941666666667
+310,2015,81.52137928976742,0.04967721128,778.31,5.8,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,59.735
+311,2015,81.52137928976742,0.04967721128,778.31,5.8,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6260.610833333333
+312,2015,81.52137928976742,0.04967721128,778.31,5.8,Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,Retail,KES,37.20583333333334
+313,2015,81.52137928976742,0.04967721128,778.31,5.8,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,33.25
+314,2015,81.52137928976742,0.04967721128,778.31,5.8,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1641.1059999999998
+315,2015,81.52137928976742,0.04967721128,778.31,5.8,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,4465.0
+316,2015,81.52137928976742,0.04967721128,778.31,5.8,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,78.91666666666667
+317,2015,81.52137928976742,0.04967721128,778.31,5.8,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,50.23636363636364
+318,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,49.666666666666664
+319,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,32.54833333333333
+320,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2742.9300000000003
+321,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1801.9425
+322,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3618.4308333333333
+323,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,47.583333333333336
+324,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,Retail,KES,81.38428571428572
+325,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,Retail,KES,58.237142857142864
+326,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,Retail,KES,96.72142857142856
+327,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,192.83333333333334
+328,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,68.24222222222222
+329,2015,81.52137928976742,0.04967721128,778.31,5.8,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6305.333333333333
+330,2015,81.52137928976742,0.04967721128,778.31,5.8,North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,Retail,KES,55.833333333333336
+331,2015,81.52137928976742,0.04967721128,778.31,5.8,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,66.16666666666667
+332,2015,81.52137928976742,0.04967721128,778.31,5.8,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,32.17
+333,2015,81.52137928976742,0.04967721128,778.31,5.8,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3143.25
+334,2015,81.52137928976742,0.04967721128,778.31,5.8,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2365.005833333333
+335,2015,81.52137928976742,0.04967721128,778.31,5.8,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3434.7225
+336,2015,81.52137928976742,0.04967721128,778.31,5.8,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,70.63833333333334
+337,2015,81.52137928976742,0.04967721128,778.31,5.8,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6985.569166666667
+338,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,Retail,KES,42.5
+339,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,Retail,KES,104.5
+340,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,Retail,KES,45.94833333333333
+341,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,Retail,KES,90.51166666666667
+342,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,25.916363636363634
+343,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2391.1666666666665
+344,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2171.334166666667
+345,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3231.9375
+346,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,58.68
+347,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5848.958333333333
+348,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,76.41666666666667
+349,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,24.426666666666666
+350,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,2386.7083333333335
+351,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1395.0183333333334
+352,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,5275.416666666667
+353,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,75.02
+354,2015,81.52137928976742,0.04967721128,778.31,5.8,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6887.805833333333
+355,2016,86.67159056144413,0.04213517068,686.81,,Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,Retail,KES,40.54545454545455
+356,2016,86.67159056144413,0.04213517068,686.81,,Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,Retail,KES,88.63636363636364
+357,2016,86.67159056144413,0.04213517068,686.81,,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,29.7725
+358,2016,86.67159056144413,0.04213517068,686.81,,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2931.5345454545454
+359,2016,86.67159056144413,0.04213517068,686.81,,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,59.95583333333334
+360,2016,86.67159056144413,0.04213517068,686.81,,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6318.898181818182
+361,2016,86.67159056144413,0.04213517068,686.81,,Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,Retail,KES,46.841818181818184
+362,2016,86.67159056144413,0.04213517068,686.81,,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,31.5
+363,2016,86.67159056144413,0.04213517068,686.81,,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2893.909090909091
+364,2016,86.67159056144413,0.04213517068,686.81,,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,4123.166666666667
+365,2016,86.67159056144413,0.04213517068,686.81,,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,74.375
+366,2016,86.67159056144413,0.04213517068,686.81,,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,45.1
+367,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,48.09090909090909
+368,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,31.25916666666667
+369,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2722.939090909091
+370,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2568.5116666666668
+371,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3374.852727272727
+372,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,49.0
+373,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,Retail,KES,76.61454545454545
+374,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,Retail,KES,53.47
+375,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,Retail,KES,89.39090909090909
+376,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,179.63636363636363
+377,2016,86.67159056144413,0.04213517068,686.81,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5995.91090909091
+378,2016,86.67159056144413,0.04213517068,686.81,,North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,Retail,KES,52.36363636363637
+379,2016,86.67159056144413,0.04213517068,686.81,,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,62.23636363636364
+380,2016,86.67159056144413,0.04213517068,686.81,,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,34.78
+381,2016,86.67159056144413,0.04213517068,686.81,,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3166.090909090909
+382,2016,86.67159056144413,0.04213517068,686.81,,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,3113.5154545454543
+383,2016,86.67159056144413,0.04213517068,686.81,,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3270.4545454545455
+384,2016,86.67159056144413,0.04213517068,686.81,,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,66.69416666666667
+385,2016,86.67159056144413,0.04213517068,686.81,,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,7070.090909090909
+386,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,Retail,KES,41.81818181818182
+387,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,Retail,KES,100.18181818181819
+388,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,Retail,KES,46.25727272727273
+389,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,Retail,KES,83.47
+390,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,26.711111111111112
+391,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2493.181818181818
+392,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,3558.6363636363635
+393,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3084.0
+394,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,51.97727272727273
+395,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5488.454545454545
+396,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,75.45454545454545
+397,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,28.0875
+398,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,2521.4500000000003
+399,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1590.7954545454545
+400,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,5113.636363636364
+401,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,64.9225
+402,2016,86.67159056144413,0.04213517068,686.81,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,7479.0
+403,2017,93.5923769013441,0.03815506427,1002.64,,Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,Retail,KES,54.525
+404,2017,93.5923769013441,0.03815506427,1002.64,,Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,Retail,KES,114.25
+405,2017,93.5923769013441,0.03815506427,1002.64,,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,40.38
+406,2017,93.5923769013441,0.03815506427,1002.64,,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3721.25
+407,2017,93.5923769013441,0.03815506427,1002.64,,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,90.56083333333333
+408,2017,93.5923769013441,0.03815506427,1002.64,,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6938.333333333333
+409,2017,93.5923769013441,0.03815506427,1002.64,,Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,Retail,KES,58.48583333333334
+410,2017,93.5923769013441,0.03815506427,1002.64,,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,46.26666666666667
+411,2017,93.5923769013441,0.03815506427,1002.64,,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,3013.1941666666667
+412,2017,93.5923769013441,0.03815506427,1002.64,,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,6250.833333333333
+413,2017,93.5923769013441,0.03815506427,1002.64,,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,86.51666666666667
+414,2017,93.5923769013441,0.03815506427,1002.64,,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,49.35
+415,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,46.0
+416,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,44.00083333333333
+417,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3860.7775
+418,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2370.5766666666664
+419,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,4796.173333333333
+420,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,49.09818181818182
+421,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,Retail,KES,86.2990909090909
+422,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,Retail,KES,64.18363636363637
+423,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,Retail,KES,97.0090909090909
+424,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,188.01454545454544
+425,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,63.33
+426,2017,93.5923769013441,0.03815506427,1002.64,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,7291.5275
+427,2017,93.5923769013441,0.03815506427,1002.64,,North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,Retail,KES,60.333333333333336
+428,2017,93.5923769013441,0.03815506427,1002.64,,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,66.55
+429,2017,93.5923769013441,0.03815506427,1002.64,,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,4410.25
+430,2017,93.5923769013441,0.03815506427,1002.64,,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2154.6875
+431,2017,93.5923769013441,0.03815506427,1002.64,,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,4772.833333333333
+432,2017,93.5923769013441,0.03815506427,1002.64,,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,76.93083333333334
+433,2017,93.5923769013441,0.03815506427,1002.64,,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,8354.5
+434,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,Retail,KES,57.833333333333336
+435,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,Retail,KES,118.25
+436,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,Retail,KES,63.36666666666667
+437,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,Retail,KES,119.84166666666665
+438,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,39.36
+439,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3198.6666666666665
+440,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2401.3333333333335
+441,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,Wholesale,KES,4276.333333333333
+442,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,63.4975
+443,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5691.666666666667
+444,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,88.19166666666666
+445,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,36.309999999999995
+446,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,3527.4583333333335
+447,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1963.0208333333333
+448,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,6784.218333333333
+449,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,84.17
+450,2017,93.5923769013441,0.03815506427,1002.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,9011.270833333334
+451,2018,97.98162566214803,0.056291014400000006,806.64,,Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,Retail,KES,42.69166666666666
+452,2018,97.98162566214803,0.056291014400000006,806.64,,Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,Retail,KES,92.935
+453,2018,97.98162566214803,0.056291014400000006,806.64,,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,28.108333333333334
+454,2018,97.98162566214803,0.056291014400000006,806.64,,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2419.625
+455,2018,97.98162566214803,0.056291014400000006,806.64,,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,54.23916666666667
+456,2018,97.98162566214803,0.056291014400000006,806.64,,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,5206.756666666667
+457,2018,97.98162566214803,0.056291014400000006,806.64,,Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,Retail,KES,50.541666666666664
+458,2018,97.98162566214803,0.056291014400000006,806.64,,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,31.07166666666667
+459,2018,97.98162566214803,0.056291014400000006,806.64,,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,4076.514545454546
+460,2018,97.98162566214803,0.056291014400000006,806.64,,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,6015.0
+461,2018,97.98162566214803,0.056291014400000006,806.64,,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,76.01666666666667
+462,2018,97.98162566214803,0.056291014400000006,806.64,,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,46.083333333333336
+463,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,44.666666666666664
+464,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,30.15545454545455
+465,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2545.7608333333333
+466,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2384.4375
+467,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3949.9791666666665
+468,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,44.44416666666667
+469,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,Retail,KES,103.22166666666665
+470,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,Retail,KES,89.42750000000001
+471,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,Retail,KES,111.20833333333333
+472,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,189.08916666666664
+473,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,58.84400000000001
+474,2018,97.98162566214803,0.056291014400000006,806.64,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6760.197499999999
+475,2018,97.98162566214803,0.056291014400000006,806.64,,North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,Retail,KES,62.916666666666664
+476,2018,97.98162566214803,0.056291014400000006,806.64,,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,65.54166666666667
+477,2018,97.98162566214803,0.056291014400000006,806.64,,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,30.88
+478,2018,97.98162566214803,0.056291014400000006,806.64,,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3050.0
+479,2018,97.98162566214803,0.056291014400000006,806.64,,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1799.819166666667
+480,2018,97.98162566214803,0.056291014400000006,806.64,,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3666.4583333333335
+481,2018,97.98162566214803,0.056291014400000006,806.64,,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,62.64333333333334
+482,2018,97.98162566214803,0.056291014400000006,806.64,,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,7294.0275
+483,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,Retail,KES,42.0
+484,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,Retail,KES,105.91666666666667
+485,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,Retail,KES,48.0
+486,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,Retail,KES,85.91666666666667
+487,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,21.75
+488,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2042.1666666666667
+489,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2890.9375
+490,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3354.3233333333333
+491,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,51.40181818181818
+492,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6119.166666666667
+493,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,74.31666666666666
+494,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,28.883333333333336
+495,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,1984.4025000000001
+496,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1907.944166666667
+497,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,6066.0
+498,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,68.07916666666667
+499,2018,97.98162566214803,0.056291014400000006,806.64,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,7654.843333333333
+500,2019,103.11556345154607,0.04981132628,1100.16,,Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,Retail,KES,45.0
+501,2019,103.11556345154607,0.04981132628,1100.16,,Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,Retail,KES,98.00833333333333
+502,2019,103.11556345154607,0.04981132628,1100.16,,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,36.39
+503,2019,103.11556345154607,0.04981132628,1100.16,,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3151.4790000000003
+504,2019,103.11556345154607,0.04981132628,1100.16,,Coast,Mombasa,Mombasa,pulses and nuts,Beans,KG,Wholesale,KES,67.95375
+505,2019,103.11556345154607,0.04981132628,1100.16,,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6888.45
+506,2019,103.11556345154607,0.04981132628,1100.16,,Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,Retail,KES,56.025
+507,2019,103.11556345154607,0.04981132628,1100.16,,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,38.86666666666667
+508,2019,103.11556345154607,0.04981132628,1100.16,,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,4083.3333333333335
+509,2019,103.11556345154607,0.04981132628,1100.16,,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,4856.25
+510,2019,103.11556345154607,0.04981132628,1100.16,,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,82.625
+511,2019,103.11556345154607,0.04981132628,1100.16,,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,46.775
+512,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,43.5
+513,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,34.347500000000004
+514,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3305.1566666666663
+515,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2436.875
+516,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,5124.979166666667
+517,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,44.25
+518,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,Retail,KES,101.825
+519,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,Retail,KES,101.8975
+520,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,Retail,KES,109.01666666666667
+521,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,185.43083333333334
+522,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,54.76142857142857
+523,2019,103.11556345154607,0.04981132628,1100.16,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,7692.104166666667
+524,2019,103.11556345154607,0.04981132628,1100.16,,North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,Retail,KES,66.58333333333333
+525,2019,103.11556345154607,0.04981132628,1100.16,,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,76.72500000000001
+526,2019,103.11556345154607,0.04981132628,1100.16,,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize,KG,Wholesale,KES,39.95
+527,2019,103.11556345154607,0.04981132628,1100.16,,Nyanza,Kisumu,Kisumu,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3449.4
+528,2019,103.11556345154607,0.04981132628,1100.16,,Nyanza,Kisumu,Kisumu,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2268.375
+529,2019,103.11556345154607,0.04981132628,1100.16,,Nyanza,Kisumu,Kisumu,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3639.5
+530,2019,103.11556345154607,0.04981132628,1100.16,,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans,KG,Wholesale,KES,68.88428571428571
+531,2019,103.11556345154607,0.04981132628,1100.16,,Nyanza,Kisumu,Kisumu,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,8799.2
+532,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,Retail,KES,48.644444444444446
+533,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,Retail,KES,115.375
+534,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,Retail,KES,50.43333333333334
+535,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,Retail,KES,97.01666666666667
+536,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,28.674444444444443
+537,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2621.9166666666665
+538,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2402.6666666666665
+539,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,Wholesale,KES,4160.416666666667
+540,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans,KG,Wholesale,KES,62.28
+541,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6644.0
+542,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,64.825
+543,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,19.895
+544,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,2714.2083333333335
+545,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1718.9583333333333
+546,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,5419.166666666667
+547,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans,KG,Wholesale,KES,69.79142857142857
+548,2019,103.11556345154607,0.04981132628,1100.16,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,8716.375
+549,2020,108.00225428077923,-0.00316182729,791.5,,Coast,Kilifi,Kilifi,cereals and tubers,Maize (white),KG,Retail,KES,43.00833333333333
+550,2020,108.00225428077923,-0.00316182729,791.5,,Coast,Kilifi,Kilifi,pulses and nuts,Beans (dry),KG,Retail,KES,105.06666666666666
+551,2020,108.00225428077923,-0.00316182729,791.5,,Coast,Mombasa,Mombasa,cereals and tubers,Maize,KG,Wholesale,KES,37.1
+552,2020,108.00225428077923,-0.00316182729,791.5,,Coast,Mombasa,Mombasa,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3102.64
+553,2020,108.00225428077923,-0.00316182729,791.5,,Coast,Mombasa,Mombasa,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,8666.666666666666
+554,2020,108.00225428077923,-0.00316182729,791.5,,Coast,Tana River,Hola (Tana River),cereals and tubers,Maize (white),KG,Retail,KES,56.98888888888889
+555,2020,108.00225428077923,-0.00316182729,791.5,,Eastern,Kitui,Kitui,cereals and tubers,Maize (white),KG,Retail,KES,33.833333333333336
+556,2020,108.00225428077923,-0.00316182729,791.5,,Eastern,Kitui,Kitui,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,3200.0
+557,2020,108.00225428077923,-0.00316182729,791.5,,Eastern,Kitui,Kitui,cereals and tubers,Sorghum,90 KG,Wholesale,KES,4952.776666666667
+558,2020,108.00225428077923,-0.00316182729,791.5,,Eastern,Kitui,Kitui,pulses and nuts,Beans (dry),KG,Retail,KES,88.75
+559,2020,108.00225428077923,-0.00316182729,791.5,,Eastern,Marsabit,Marsabit,cereals and tubers,Maize (white),KG,Retail,KES,45.44444444444444
+560,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Bread,400 G,Retail,KES,44.166666666666664
+561,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Retail,KES,52.0
+562,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize,KG,Wholesale,KES,33.92333333333333
+563,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize (white),90 KG,Wholesale,KES,3181.0833333333335
+564,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Maize flour,KG,Retail,KES,62.0
+565,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2424.443333333333
+566,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Potatoes (Irish),KG,Retail,KES,61.0
+567,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Rice,KG,Retail,KES,104.0
+568,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,90 KG,Wholesale,KES,5300.0
+569,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Sorghum,KG,Retail,KES,84.0
+570,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,cereals and tubers,Wheat flour,KG,Retail,KES,62.0
+571,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,"meat, fish and eggs",Meat (beef),KG,Retail,KES,431.0
+572,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,"meat, fish and eggs",Meat (goat),KG,Retail,KES,533.17
+573,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,milk and dairy,Milk (UHT),200 ML,Retail,KES,27.0
+574,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,milk and dairy,"Milk (cow, pasteurized)",500 ML,Retail,KES,45.068333333333335
+575,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,miscellaneous food,Sugar,KG,Retail,KES,107.0
+576,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,non-food,Fuel (diesel),L,Retail,KES,92.08999999999999
+577,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,non-food,Fuel (kerosene),L,Retail,KES,82.05
+578,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,non-food,Fuel (petrol-gasoline),L,Retail,KES,100.92
+579,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,oil and fats,Cooking fat,KG,Retail,KES,104.0
+580,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,oil and fats,Oil (vegetable),L,Retail,KES,171.20666666666668
+581,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans,KG,Wholesale,KES,78.41
+582,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,8536.0
+583,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,pulses and nuts,Beans (dry),KG,Retail,KES,108.0
+584,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,vegetables and fruits,Bananas,Unit,Retail,KES,8.0
+585,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,vegetables and fruits,Kale,Bunch,Retail,KES,6.0
+586,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,vegetables and fruits,Onions (red),KG,Retail,KES,57.0
+587,2020,108.00225428077923,-0.00316182729,791.5,,Nairobi,Nairobi,Nairobi,vegetables and fruits,Tomatoes,KG,Retail,KES,58.0
+588,2020,108.00225428077923,-0.00316182729,791.5,,North Eastern,Garissa,Garissa,cereals and tubers,Maize (white),KG,Retail,KES,68.88888888888889
+589,2020,108.00225428077923,-0.00316182729,791.5,,North Eastern,Mandera,Mandera,cereals and tubers,Maize (white),KG,Retail,KES,81.25
+590,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Baringo,Marigat (Baringo),cereals and tubers,Maize (white),KG,Retail,KES,45.125
+591,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Baringo,Marigat (Baringo),pulses and nuts,Beans (dry),KG,Retail,KES,118.8175
+592,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Kajiado,Kajiado,cereals and tubers,Maize (white),KG,Retail,KES,52.45454545454545
+593,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Kajiado,Kajiado,pulses and nuts,Beans (dry),KG,Retail,KES,100.45454545454545
+594,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize,KG,Wholesale,KES,31.981111111111108
+595,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Maize (white),90 KG,Wholesale,KES,2796.2966666666666
+596,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,2541.6666666666665
+597,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Nakuru,Nakuru,cereals and tubers,Sorghum,90 KG,Wholesale,KES,3185.4166666666665
+598,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Nakuru,Nakuru,pulses and nuts,Beans (dry),90 KG,Wholesale,KES,6868.75
+599,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Turkana,Lodwar (Turkana),cereals and tubers,Maize (white),KG,Retail,KES,66.9090909090909
+600,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize,KG,Wholesale,KES,31.2225
+601,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Maize (white),90 KG,Wholesale,KES,3000.0
+602,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Potatoes (Irish),50 KG,Wholesale,KES,1821.9433333333334
+603,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),cereals and tubers,Sorghum,90 KG,Wholesale,KES,5400.0
+604,2020,108.00225428077923,-0.00316182729,791.5,,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),pulses and nuts,Beans (dry),90 KG,Wholesale,KES,9150.0
